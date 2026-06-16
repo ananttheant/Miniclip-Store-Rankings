@@ -138,7 +138,7 @@ async function load(){
   let newest = null;
   for (const s of Object.keys(data)) if (data[s]?.generated_at && (!newest || data[s].generated_at>newest)) newest = data[s].generated_at;
   document.getElementById("foot").innerHTML =
-    `Data last fetched ${fmt(newest)} &middot; source: Voodoo store-rankings &middot; <a href="https://store-rankings.voodoo-tech.io/#/itunes" target="_blank" rel="noopener">original</a>`;
+    `Data last fetched ${fmt(newest)} &middot; source: App Store &amp; Google Play &mdash; Top Free Games (US)`;
   render();
 }
 load();

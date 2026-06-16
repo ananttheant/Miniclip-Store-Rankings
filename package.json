@@ -1,0 +1,17 @@
+{
+  "name": "miniclip-store-rankings",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetches US Top Free Games charts directly from the App Store and Google Play and highlights Miniclip-family titles.",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "seed": "node scripts/build_seed.mjs"
+  },
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "google-play-scraper": "^10.1.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

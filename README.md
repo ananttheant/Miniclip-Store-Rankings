@@ -1,17 +1,28 @@
 # Miniclip in the store charts
 
-A small, self-hosted GitHub Pages site that reads the current **US top-100 free
-games** (App Store + Google Play) from the public Voodoo store-rankings data and
-highlights every title published by **Miniclip or one of its studios**
-(SYBO, Easybrain, Lessmore, Ilyon, Masomo, Gamebasics, Green Horse Games,
-Eight Pixels Square, Supersonic Software / AppyNation, FuturLab, Triwin).
+A small, self-hosted GitHub Pages site that reads the current **US Top Free
+Games** charts **directly from the App Store and Google Play** and highlights
+every title published by **Miniclip or one of its studios** (SYBO, Easybrain,
+Lessmore, Ilyon, Masomo, Gamebasics, Green Horse Games, Eight Pixels Square,
+Supersonic Software / AppyNation, FuturLab, Triwin).
 
 A scheduled GitHub Action re-fetches the charts once a day at midnight UTC and
 commits the refreshed data, so the page stays current on its own.
 
+## Data sources
+
+- **App Store** — Apple's own "Top Free Games" RSS chart (genre 6014), via the
+  [`app-store-scraper`](https://www.npmjs.com/package/app-store-scraper) library.
+  This is the same feed third-party trackers resell, so results match them
+  exactly.
+- **Google Play** — Play's own Top Free GAME chart, via the
+  [`google-play-scraper`](https://www.npmjs.com/package/google-play-scraper)
+  library. Google has no official charts API, so this scrapes Play's internal
+  endpoint; if Google changes it, bump the library version.
+
 ## Why an Action instead of fetching live in the browser
 
-The Voodoo data files don't send CORS headers, so a browser page hosted on a
+These store endpoints don't send CORS headers, so a browser page hosted on a
 different domain (like `*.github.io`) can't fetch them directly. A GitHub Action
 runs **server-side**, where CORS doesn't apply, fetches the data, and commits
 it into `data/` — which the page then loads from its own origin.
@@ -21,11 +32,12 @@ it into `data/` — which the page then loads from its own origin.
 | Path | What it does |
 |------|--------------|
 | `index.html` | The dashboard. Loads `data/itunes.json` + `data/google_play.json`. |
-| `data/*.json` | Snapshot data (seeded now; refreshed by the Action). |
+| `data/*.json` | Snapshot data, refreshed by the Action. |
 | `scripts/studios.mjs` | The Miniclip studio → publisher-name matching rules. |
-| `scripts/update.mjs` | Fetches latest charts and writes `data/*.json`. |
-| `scripts/build_seed.mjs` | One-off seed generator used to create the first data files. |
-| `.github/workflows/update.yml` | Scheduled refresh + commit. |
+| `scripts/update.mjs` | Fetches the live charts from the stores and writes `data/*.json`. |
+| `scripts/build_seed.mjs` | Legacy one-off seed generator (no longer used). |
+| `package.json` | Declares the two scraper dependencies. |
+| `.github/workflows/update.yml` | `npm install` + scheduled refresh + commit. |
 
 ## Setup (one time)
 
@@ -55,7 +67,9 @@ it into `data/` — which the page then loads from its own origin.
 
 ## Notes
 
-- Data source: `https://store-rankings.voodoo-tech.io` (public). This is a
-  third-party tool; treat the data as informational.
+- Data comes directly from the App Store and Google Play "Top Free Games" (US)
+  charts. Apple is an official RSS feed; Google Play is scraped (no official
+  API), so the Play job tolerates failure independently and the Action only
+  errors if **both** stores fail.
 - Matching is by store **publisher name**, so a newly-acquired studio will be
   picked up as soon as its name is added to `studios.mjs`.

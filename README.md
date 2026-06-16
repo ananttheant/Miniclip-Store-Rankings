@@ -6,8 +6,8 @@ highlights every title published by **Miniclip or one of its studios**
 (SYBO, Easybrain, Lessmore, Ilyon, Masomo, Gamebasics, Green Horse Games,
 Eight Pixels Square, Supersonic Software / AppyNation, FuturLab, Triwin).
 
-A scheduled GitHub Action re-fetches the charts every 30 minutes and commits the
-refreshed data, so the page stays current on its own.
+A scheduled GitHub Action re-fetches the charts once a day at midnight UTC and
+commits the refreshed data, so the page stays current on its own.
 
 ## Why an Action instead of fetching live in the browser
 
@@ -45,7 +45,7 @@ it into `data/` — which the page then loads from its own origin.
 3. **Allow the Action to commit:** repo → Settings → Actions → General →
    *Workflow permissions* → **Read and write permissions** → Save.
 4. **Run it once now:** repo → Actions → *Update store rankings* → *Run workflow*.
-   (It also runs automatically every 30 min.)
+   (It also runs automatically every day at midnight UTC.)
 
 ## Adjusting
 

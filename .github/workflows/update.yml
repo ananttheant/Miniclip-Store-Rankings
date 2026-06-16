@@ -2,7 +2,7 @@ name: Update store rankings
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 min (GitHub may delay scheduled runs)
+    - cron: "0 0 * * *"      # daily at 00:00 UTC (GitHub may delay scheduled runs)
   workflow_dispatch: {}        # lets you run it manually from the Actions tab
   push:
     branches: [main]

@@ -1,0 +1,16 @@
+{
+ "generated_at": "2026-06-16T13:00:44.213Z",
+ "seed": true,
+ "stores": {
+  "itunes": {
+   "updated_at": "2026-06-16T12:49:01.000Z",
+   "total": 100,
+   "miniclip_count": 4
+  },
+  "google_play": {
+   "updated_at": "2026-06-15T16:01:40.000Z",
+   "total": 100,
+   "miniclip_count": 5
+  }
+ }
+}

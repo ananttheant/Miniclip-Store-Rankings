@@ -1,0 +1,911 @@
+{
+ "store": "google_play",
+ "updated_at": "2026-06-15T16:01:40.000Z",
+ "source_file": "/google_play/2026/06/15/1601.json",
+ "generated_at": "2026-06-16T13:00:44.212Z",
+ "seed": true,
+ "total": 100,
+ "miniclip_count": 5,
+ "games": [
+  {
+   "rank": 1,
+   "id": null,
+   "name": "Meowdoku: Brain Puzzle Games",
+   "publisher": "Oakever Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 2,
+   "id": null,
+   "name": "Arrows – Puzzle Escape",
+   "publisher": "Lessmore GmbH",
+   "icon": null,
+   "dev_url": null,
+   "studio": "Lessmore"
+  },
+  {
+   "rank": 3,
+   "id": null,
+   "name": "Amaze GO!",
+   "publisher": "Oakever Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 4,
+   "id": null,
+   "name": "Vita Mahjong",
+   "publisher": "Vita Studio.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 5,
+   "id": null,
+   "name": "Roblox",
+   "publisher": "Roblox Corporation",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 6,
+   "id": null,
+   "name": "Block Blast!",
+   "publisher": "HungryStudio",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 7,
+   "id": null,
+   "name": "Royal Kingdom",
+   "publisher": "Dream Games, Ltd.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 8,
+   "id": null,
+   "name": "EA SPORTS FC Soccer Mobile 26",
+   "publisher": "ELECTRONIC ARTS",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 9,
+   "id": null,
+   "name": "MONOPOLY GO!",
+   "publisher": "Scopely",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 10,
+   "id": null,
+   "name": "Color by Number：Coloring Games",
+   "publisher": "Wildlife Studios",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 11,
+   "id": null,
+   "name": "Magic Sort!",
+   "publisher": "Grand Games A.Ş.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 12,
+   "id": null,
+   "name": "Color Block: Combo Blast",
+   "publisher": "Ivy",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 13,
+   "id": null,
+   "name": "Bubble Word Jam",
+   "publisher": "Lion Studios Plus",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 14,
+   "id": null,
+   "name": "Yarn Loop",
+   "publisher": "Combo Game",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 15,
+   "id": null,
+   "name": "Profile Perfect",
+   "publisher": "Lion Studios Plus",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 16,
+   "id": null,
+   "name": "Arrow Puzzle: Tap Puzzle Games",
+   "publisher": "Easybrain",
+   "icon": null,
+   "dev_url": null,
+   "studio": "Easybrain"
+  },
+  {
+   "rank": 17,
+   "id": null,
+   "name": "Magic Tiles 3™ - Piano Game",
+   "publisher": "AMANOTES PTE. LTD.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 18,
+   "id": null,
+   "name": "Arrow Out",
+   "publisher": "Lion Studios Plus",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 19,
+   "id": null,
+   "name": "Disney Solitaire",
+   "publisher": "SuperPlay.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 20,
+   "id": null,
+   "name": "Paper.io 2",
+   "publisher": "VOODOO",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 21,
+   "id": null,
+   "name": "Pixel Flow!",
+   "publisher": "Loom Games A.Ş.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 22,
+   "id": null,
+   "name": "Jewel Coloring",
+   "publisher": "TaTa Game Technology Limited",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 23,
+   "id": null,
+   "name": "Bus Traffic Fever!",
+   "publisher": "GOODROID,Inc.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 24,
+   "id": null,
+   "name": "Tile Explorer - Triple Match",
+   "publisher": "Oakever Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 25,
+   "id": null,
+   "name": "Zen Word® - Relax Puzzle Game",
+   "publisher": "Oakever Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 26,
+   "id": null,
+   "name": "Solitaire - Classic Card Games",
+   "publisher": "Guru Puzzle Game",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 27,
+   "id": null,
+   "name": "Castle Busters",
+   "publisher": "VOODOO",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 28,
+   "id": null,
+   "name": "Mob Control",
+   "publisher": "VOODOO",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 29,
+   "id": null,
+   "name": "Snake Clash!",
+   "publisher": "Supercent, Inc.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 30,
+   "id": null,
+   "name": "Fortnite",
+   "publisher": "Epic Games, Inc",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 31,
+   "id": null,
+   "name": "Among Us",
+   "publisher": "Innersloth LLC",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 32,
+   "id": null,
+   "name": "Sled Surfers",
+   "publisher": "CrazyLabs LTD",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 33,
+   "id": null,
+   "name": "Soccer Superstar",
+   "publisher": "Real Freestyle Soccer",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 34,
+   "id": null,
+   "name": "Level Devil - NOT A Troll Game",
+   "publisher": "Poki.com",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 35,
+   "id": null,
+   "name": "Zoo Prank: Crazy Animals",
+   "publisher": "Unicorn Studio Official",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 36,
+   "id": null,
+   "name": "Township",
+   "publisher": "Playrix",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 37,
+   "id": null,
+   "name": "Block Color Mania, Puzzle Game",
+   "publisher": "Brainteaser Puzzle Game Studio",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 38,
+   "id": null,
+   "name": "Geometry Dash Lite",
+   "publisher": "RobTop Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 39,
+   "id": null,
+   "name": "Subway Surfers City",
+   "publisher": "SYBO Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": "SYBO"
+  },
+  {
+   "rank": 40,
+   "id": null,
+   "name": "Melon Sandbox",
+   "publisher": "playducky.com",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 41,
+   "id": null,
+   "name": "Sword x Staff",
+   "publisher": "BOLTRAY GAMES",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 42,
+   "id": null,
+   "name": "Block Craft 3D：Building Game",
+   "publisher": "Wildlife Studios",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 43,
+   "id": null,
+   "name": "Category Sort",
+   "publisher": "Lion Studios Plus",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 44,
+   "id": null,
+   "name": "Clash of Critters",
+   "publisher": "FARLIGHT",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 45,
+   "id": null,
+   "name": "Pizza Ready!",
+   "publisher": "Supercent, Inc.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 46,
+   "id": null,
+   "name": "Tetris® Block Party",
+   "publisher": "PLAYSTUDIOS US, LLC",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 47,
+   "id": null,
+   "name": "Woodoku Blast",
+   "publisher": "Tripledot Studios Limited",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 48,
+   "id": null,
+   "name": "Coin Master",
+   "publisher": "Moon Active",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 49,
+   "id": null,
+   "name": "Colorful Soda Sort",
+   "publisher": "Space Kraft Media",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 50,
+   "id": null,
+   "name": "Rebel Glam: Dress Up Games",
+   "publisher": "31 Dress up Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 51,
+   "id": null,
+   "name": "Perfect Makeover Cleaning ASMR",
+   "publisher": "HMBL Apps",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 52,
+   "id": null,
+   "name": "Coin Master - Board Adventure",
+   "publisher": "Moon Active",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 53,
+   "id": null,
+   "name": "Royal Match",
+   "publisher": "Dream Games, Ltd.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 54,
+   "id": null,
+   "name": "Magic Level 9 Music Piano Game",
+   "publisher": "Beatwave Studio",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 55,
+   "id": null,
+   "name": "Toca Boca World",
+   "publisher": "Toca Boca",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 56,
+   "id": null,
+   "name": "Happy Color®: Color by Number",
+   "publisher": "X-FLOW",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 57,
+   "id": null,
+   "name": "Mini Challenges: Calm Games",
+   "publisher": "UltraPub",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 58,
+   "id": null,
+   "name": "Mahjong Blast",
+   "publisher": "Nebula Studio",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 59,
+   "id": null,
+   "name": "Fidget Toys Trading・Pop It 3D",
+   "publisher": "Freeplay Inc",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 60,
+   "id": null,
+   "name": "Subway Surfers",
+   "publisher": "SYBO Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": "SYBO"
+  },
+  {
+   "rank": 61,
+   "id": null,
+   "name": "Annoying Uncle Punch Game®",
+   "publisher": "Game District LLC",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 62,
+   "id": null,
+   "name": "Arrow Puzzle - Arrow Madness",
+   "publisher": "Ashita Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 63,
+   "id": null,
+   "name": "Kick the Buddy－Fun Action Game",
+   "publisher": "Playgendary Limited",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 64,
+   "id": null,
+   "name": "Offline Games No WiFi internet",
+   "publisher": "Fun Offline Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 65,
+   "id": null,
+   "name": "Animals & Coins Adventure Game",
+   "publisher": "Innplay Labs",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 66,
+   "id": null,
+   "name": "Gossip Harbor: Merge & Story",
+   "publisher": "Microfun Limited",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 67,
+   "id": null,
+   "name": "Match Factory!",
+   "publisher": "Peak",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 68,
+   "id": null,
+   "name": "Solitaire Associations Journey",
+   "publisher": "Hitapps Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 69,
+   "id": null,
+   "name": "Kingshot",
+   "publisher": "Century Games PTE. LTD.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 70,
+   "id": null,
+   "name": "Marble Sort! - Color Puzzle",
+   "publisher": "VOODOO",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 71,
+   "id": null,
+   "name": "Color Slide - Hexa Puzzle",
+   "publisher": "SayGames Ltd",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 72,
+   "id": null,
+   "name": "Call of Duty®: Mobile",
+   "publisher": "Activision Publishing, Inc.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 73,
+   "id": null,
+   "name": "Wool Crush™",
+   "publisher": "Astrasen Global",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 74,
+   "id": null,
+   "name": "Pokémon GO",
+   "publisher": "Niantic, Inc.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 75,
+   "id": null,
+   "name": "Block Crazy Robo World Craft",
+   "publisher": "Prokids Studio",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 76,
+   "id": null,
+   "name": "Go Convenience store Ready",
+   "publisher": "zame",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 77,
+   "id": null,
+   "name": "Loop Sort",
+   "publisher": "VOODOO",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 78,
+   "id": null,
+   "name": "OneState RP - Role Play Life",
+   "publisher": "ChillBase",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 79,
+   "id": null,
+   "name": "I Am Cat",
+   "publisher": "Estoty",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 80,
+   "id": null,
+   "name": "Pixel Art - Color by Number",
+   "publisher": "Easybrain",
+   "icon": null,
+   "dev_url": null,
+   "studio": "Easybrain"
+  },
+  {
+   "rank": 81,
+   "id": null,
+   "name": "Tasty Travels: Merge Game",
+   "publisher": "Century Games PTE. LTD.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 82,
+   "id": null,
+   "name": "Hole Stars: Puzzle Game",
+   "publisher": "Moon Active",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 83,
+   "id": null,
+   "name": "Tiles Survive!",
+   "publisher": "FunPlus International AG",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 84,
+   "id": null,
+   "name": "Arrows Puzzle Relax",
+   "publisher": "olfa",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 85,
+   "id": null,
+   "name": "Offline Games - No Wifi Games",
+   "publisher": "JindoBlu",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 86,
+   "id": null,
+   "name": "Snake.io - Fun Snake .io Games",
+   "publisher": "Kooapps Games | Fun Arcade and Casual Action Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 87,
+   "id": null,
+   "name": "Game Is Hard",
+   "publisher": "Unico Studio",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 88,
+   "id": null,
+   "name": "Chess - Play and Learn Online",
+   "publisher": "Chess.com",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 89,
+   "id": null,
+   "name": "Candy Crush Saga",
+   "publisher": "King",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 90,
+   "id": null,
+   "name": "Pokémon TCG Pocket - Card Game",
+   "publisher": "The Pokémon Company",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 91,
+   "id": null,
+   "name": "Block Blitz: Puzzle Adventure",
+   "publisher": "Bluetile",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 92,
+   "id": null,
+   "name": "Fidget Trading 3D Fidget Toys",
+   "publisher": "MagicLab",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 93,
+   "id": null,
+   "name": "XP Hero",
+   "publisher": "Supercent, Inc.",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 94,
+   "id": null,
+   "name": "X-Clash",
+   "publisher": "Glaciers Game",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 95,
+   "id": null,
+   "name": "Jigsawcard Solitaire Puzzle",
+   "publisher": "Oakever Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 96,
+   "id": null,
+   "name": "Word Search Explorer",
+   "publisher": "PlaySimple Games",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 97,
+   "id": null,
+   "name": "School Party Craft",
+   "publisher": "Candy Room Games & RabbitCo",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 98,
+   "id": null,
+   "name": "Mini Fidget Antistress Games",
+   "publisher": "The Fashion Valley",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 99,
+   "id": null,
+   "name": "Football League 2026",
+   "publisher": "MOBILE SOCCER",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  },
+  {
+   "rank": 100,
+   "id": null,
+   "name": "My Talking Tom 2: Pet Game",
+   "publisher": "Outfit7 Limited",
+   "icon": null,
+   "dev_url": null,
+   "studio": null
+  }
+ ]
+}

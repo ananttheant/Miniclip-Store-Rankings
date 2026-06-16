@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Miniclip in the Store Charts</title>
+<style>
+  :root{
+    color-scheme: light;
+    --bg:#f6f7f9; --card:#ffffff; --ink:#16181d; --muted:#6b7280;
+    --line:#e6e8ec; --accent:#ffcc00; --accent-ink:#1a1a1a;
+    --hit-bg:#fffae6; --hit-line:#f2d33a; --chip:#eef0f3;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  .wrap{max-width:860px;margin:0 auto;padding:24px 18px 64px}
+  header h1{font-size:22px;margin:0 0 4px}
+  header p{margin:0;color:var(--muted);font-size:13.5px}
+  .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:20px 0 14px}
+  .seg{display:inline-flex;background:var(--chip);border-radius:10px;padding:3px}
+  .seg button{border:0;background:transparent;padding:7px 14px;border-radius:8px;
+    font-size:13.5px;font-weight:600;color:var(--muted);cursor:pointer}
+  .seg button.on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+  .toggle{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;color:var(--ink);
+    background:var(--card);border:1px solid var(--line);border-radius:10px;padding:7px 12px;cursor:pointer}
+  .toggle input{accent-color:#111}
+  .search{flex:1;min-width:160px}
+  .search input{width:100%;padding:9px 12px;border:1px solid var(--line);border-radius:10px;
+    font-size:14px;background:var(--card)}
+  .meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+  .pill{font-size:12px;color:var(--muted);background:var(--card);border:1px solid var(--line);
+    border-radius:999px;padding:4px 10px}
+  .pill b{color:var(--ink)}
+  ul{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:14px;
+    overflow:hidden;background:var(--card)}
+  li{display:flex;align-items:center;gap:12px;padding:10px 14px;border-top:1px solid var(--line)}
+  li:first-child{border-top:0}
+  li.hit{background:var(--hit-bg)}
+  li.hit + li.hit{border-top-color:var(--hit-line)}
+  .rank{width:30px;text-align:right;font-variant-numeric:tabular-nums;color:var(--muted);
+    font-weight:700;font-size:14px}
+  .ic{width:40px;height:40px;border-radius:9px;flex:none;object-fit:cover;background:var(--chip);
+    display:flex;align-items:center;justify-content:center;font-weight:800;color:#9aa1ab;font-size:16px;overflow:hidden}
+  .ic img{width:100%;height:100%;object-fit:cover;display:block}
+  .body{min-width:0;flex:1}
+  .name{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .pub{color:var(--muted);font-size:12.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .badge{flex:none;font-size:11.5px;font-weight:700;color:var(--accent-ink);background:var(--accent);
+    border-radius:999px;padding:4px 10px}
+  .empty{padding:28px;text-align:center;color:var(--muted)}
+  footer{margin-top:18px;color:var(--muted);font-size:12px;text-align:center}
+  a{color:#3a6df0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Miniclip in the store charts</h1>
+    <p>US top-100 free games &mdash; highlighting titles from Miniclip and its studios.</p>
+  </header>
+
+  <div class="controls">
+    <div class="seg" id="storeSeg">
+      <button data-store="itunes" class="on">App Store</button>
+      <button data-store="google_play">Google Play</button>
+    </div>
+    <label class="toggle"><input type="checkbox" id="onlyMc" checked /> Miniclip only</label>
+    <div class="search"><input id="q" type="search" placeholder="Search game or publisher&hellip;" /></div>
+  </div>
+
+  <div class="meta" id="meta"></div>
+  <ul id="list"><li class="empty">Loading&hellip;</li></ul>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const STORES = { itunes: "App Store", google_play: "Google Play" };
+let state = { store: "itunes", onlyMc: true, q: "" };
+const data = {};
+
+function avatar(g){
+  const letter = (g.name || "?").trim()[0] || "?";
+  if (g.icon) return `<span class="ic"><img loading="lazy" src="${g.icon}" alt="" onerror="this.parentNode.textContent='${letter.replace(/'/g,"")}'"></span>`;
+  return `<span class="ic">${letter}</span>`;
+}
+function esc(s){ return (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function fmt(iso){ if(!iso) return "unknown"; const d=new Date(iso);
+  return d.toLocaleString(undefined,{year:"numeric",month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}); }
+
+function render(){
+  const d = data[state.store];
+  const list = document.getElementById("list");
+  const meta = document.getElementById("meta");
+  if (!d){ list.innerHTML = `<li class="empty">No data file for ${STORES[state.store]} yet.</li>`; meta.innerHTML=""; return; }
+
+  const q = state.q.trim().toLowerCase();
+  let games = d.games.slice();
+  if (state.onlyMc) games = games.filter(g => g.studio);
+  if (q) games = games.filter(g => (g.name+" "+g.publisher+" "+(g.studio||"")).toLowerCase().includes(q));
+
+  meta.innerHTML =
+    `<span class="pill">Chart updated <b>${fmt(d.updated_at)}</b></span>`+
+    `<span class="pill"><b>${d.miniclip_count}</b> Miniclip-family in top ${d.total}</span>`+
+    (d.seed ? `<span class="pill">seed data &mdash; awaiting first auto-refresh</span>` : "");
+
+  if (!games.length){ list.innerHTML = `<li class="empty">No matches${state.onlyMc?" — no Miniclip titles in this chart right now":""}.</li>`; return; }
+
+  list.innerHTML = games.map(g => `
+    <li class="${g.studio?"hit":""}">
+      <span class="rank">${g.rank}</span>
+      ${avatar(g)}
+      <span class="body">
+        <div class="name">${esc(g.name)}</div>
+        <div class="pub">${esc(g.publisher)}</div>
+      </span>
+      ${g.studio?`<span class="badge">${esc(g.studio)}</span>`:""}
+    </li>`).join("");
+}
+
+function setStore(s){
+  state.store = s;
+  document.querySelectorAll("#storeSeg button").forEach(b => b.classList.toggle("on", b.dataset.store===s));
+  render();
+}
+
+document.getElementById("storeSeg").addEventListener("click", e => {
+  const b = e.target.closest("button"); if(b) setStore(b.dataset.store);
+});
+document.getElementById("onlyMc").addEventListener("change", e => { state.onlyMc = e.target.checked; render(); });
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+
+async function load(){
+  await Promise.all(Object.keys(STORES).map(async s => {
+    try { const r = await fetch(`./data/${s}.json?ts=${Date.now()}`); if(r.ok) data[s] = await r.json(); }
+    catch(e){ /* leave undefined; render handles it */ }
+  }));
+  let newest = null;
+  for (const s of Object.keys(data)) if (data[s]?.generated_at && (!newest || data[s].generated_at>newest)) newest = data[s].generated_at;
+  document.getElementById("foot").innerHTML =
+    `Data last fetched ${fmt(newest)} &middot; source: Voodoo store-rankings &middot; <a href="https://store-rankings.voodoo-tech.io/#/itunes" target="_blank" rel="noopener">original</a>`;
+  render();
+}
+load();
+</script>
+</body>
+</html>

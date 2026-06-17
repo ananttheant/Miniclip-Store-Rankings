@@ -1,8 +1,8 @@
 {
  "store": "google_play",
- "updated_at": "2026-06-16T13:45:05.765Z",
+ "updated_at": "2026-06-17T03:32:47.333Z",
  "source": "Google Play · Top Free Games (US)",
- "generated_at": "2026-06-16T13:45:05.765Z",
+ "generated_at": "2026-06-17T03:32:47.333Z",
  "total": 100,
  "miniclip_count": 6,
  "games": [
@@ -80,20 +80,20 @@
   },
   {
    "rank": 9,
-   "id": "com.grandgames.magicsort",
-   "name": "Magic Sort!",
-   "publisher": "Grand Games A.Ş.",
-   "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort",
-   "studio": null
-  },
-  {
-   "rank": 10,
    "id": "com.puzzlegames.puzzlebrickslegend",
    "name": "Color Block: Combo Blast",
    "publisher": "Ivy",
    "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
    "dev_url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend",
+   "studio": null
+  },
+  {
+   "rank": 10,
+   "id": "com.grandgames.magicsort",
+   "name": "Magic Sort!",
+   "publisher": "Grand Games A.Ş.",
+   "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort",
    "studio": null
   },
   {
@@ -134,15 +134,6 @@
   },
   {
    "rank": 15,
-   "id": "com.AppFore.BubbleWordJam",
-   "name": "Bubble Word Jam",
-   "publisher": "Lion Studios Plus",
-   "icon": "https://play-lh.googleusercontent.com/fdcTtmp3L4Z9fNbcWyjD3X7BZpzfpsxvQAMqBk3lM1y8yHoax5oIFUmVbwKToeSB-KWoB9htq2r-INGq7nQMKg",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.AppFore.BubbleWordJam",
-   "studio": null
-  },
-  {
-   "rank": 16,
    "id": "io.voodoo.paper2",
    "name": "Paper.io 2",
    "publisher": "VOODOO",
@@ -151,21 +142,30 @@
    "studio": null
   },
   {
-   "rank": 17,
-   "id": "com.superplaystudios.disneysolitairedreams",
-   "name": "Disney Solitaire",
-   "publisher": "SuperPlay.",
-   "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams",
+   "rank": 16,
+   "id": "com.AppFore.BubbleWordJam",
+   "name": "Bubble Word Jam",
+   "publisher": "Lion Studios Plus",
+   "icon": "https://play-lh.googleusercontent.com/fdcTtmp3L4Z9fNbcWyjD3X7BZpzfpsxvQAMqBk3lM1y8yHoax5oIFUmVbwKToeSB-KWoB9htq2r-INGq7nQMKg",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.AppFore.BubbleWordJam",
    "studio": null
   },
   {
-   "rank": 18,
+   "rank": 17,
    "id": "com.combo.yarnflow",
    "name": "Yarn Loop",
    "publisher": "Combo Game",
    "icon": "https://play-lh.googleusercontent.com/TkHz1ZH8a92_aoOQZOOT6JN8IbD_joP7u341yfAY622TJV7douQiQVv2rAl03Ug20OoyNjw4-ASannBjehQWBw",
    "dev_url": "https://play.google.com/store/apps/details?id=com.combo.yarnflow",
+   "studio": null
+  },
+  {
+   "rank": 18,
+   "id": "com.superplaystudios.disneysolitairedreams",
+   "name": "Disney Solitaire",
+   "publisher": "SuperPlay.",
+   "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams",
    "studio": null
   },
   {
@@ -197,15 +197,6 @@
   },
   {
    "rank": 22,
-   "id": "jp.co.goodroid.hyper.busflow",
-   "name": "Bus Traffic Fever!",
-   "publisher": "GOODROID,Inc.",
-   "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ",
-   "dev_url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow",
-   "studio": null
-  },
-  {
-   "rank": 23,
    "id": "com.oakever.tiletrip",
    "name": "Tile Explorer - Triple Match",
    "publisher": "Oakever Games",
@@ -214,21 +205,30 @@
    "studio": null
   },
   {
-   "rank": 24,
-   "id": "kidultlovin.word.zen",
-   "name": "Zen Word® - Relax Puzzle Game",
-   "publisher": "Oakever Games",
-   "icon": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A",
-   "dev_url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen",
+   "rank": 23,
+   "id": "jp.co.goodroid.hyper.busflow",
+   "name": "Bus Traffic Fever!",
+   "publisher": "GOODROID,Inc.",
+   "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ",
+   "dev_url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow",
    "studio": null
   },
   {
-   "rank": 25,
+   "rank": 24,
    "id": "com.sled.surfers.game",
    "name": "Sled Surfers",
    "publisher": "CrazyLabs LTD",
    "icon": "https://play-lh.googleusercontent.com/QTC7mhfOHFW-b85FEqjfphKCA8k-WWb68bbSpZlf5-Fm_dJLLwuEVOMS8cdtcUux3pUuDRHDkSiSVkbtTrMD2SY",
    "dev_url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
+   "studio": null
+  },
+  {
+   "rank": 25,
+   "id": "kidultlovin.word.zen",
+   "name": "Zen Word® - Relax Puzzle Game",
+   "publisher": "Oakever Games",
+   "icon": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A",
+   "dev_url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen",
    "studio": null
   },
   {
@@ -245,7 +245,7 @@
    "id": "com.innersloth.spacemafia",
    "name": "Among Us",
    "publisher": "Innersloth LLC",
-   "icon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+   "icon": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
    "dev_url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
    "studio": null
   },
@@ -269,11 +269,11 @@
   },
   {
    "rank": 30,
-   "id": "com.h.zoo.prank",
-   "name": "Zoo Prank: Crazy Animals",
-   "publisher": "Unicorn Studio Official",
-   "icon": "https://play-lh.googleusercontent.com/9DdPx6mtX4GbzO2EyV8S7UYI_imepd8c-LcK88ncA4Ayq8VLHOFcOG58xVTwCPO1YGFXxnV2-pH4NczMV9NwZQ",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.h.zoo.prank",
+   "id": "com.vincentb.MobControl",
+   "name": "Mob Control",
+   "publisher": "VOODOO",
+   "icon": "https://play-lh.googleusercontent.com/eYc7EHSPfZCXbS-oj4mdPH3sSX6ljrhAJntv-bN9zrRHp8qjuroDo_kknhgb0Tu4UGnl5DdkYCW1paSNlspt",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl",
    "studio": null
   },
   {
@@ -287,11 +287,11 @@
   },
   {
    "rank": 32,
-   "id": "com.vincentb.MobControl",
-   "name": "Mob Control",
-   "publisher": "VOODOO",
-   "icon": "https://play-lh.googleusercontent.com/eYc7EHSPfZCXbS-oj4mdPH3sSX6ljrhAJntv-bN9zrRHp8qjuroDo_kknhgb0Tu4UGnl5DdkYCW1paSNlspt",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl",
+   "id": "com.h.zoo.prank",
+   "name": "Zoo Prank: Crazy Animals",
+   "publisher": "Unicorn Studio Official",
+   "icon": "https://play-lh.googleusercontent.com/9DdPx6mtX4GbzO2EyV8S7UYI_imepd8c-LcK88ncA4Ayq8VLHOFcOG58xVTwCPO1YGFXxnV2-pH4NczMV9NwZQ",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.h.zoo.prank",
    "studio": null
   },
   {
@@ -350,15 +350,6 @@
   },
   {
    "rank": 39,
-   "id": "io.supercent.pizzaidle",
-   "name": "Pizza Ready!",
-   "publisher": "Supercent, Inc.",
-   "icon": "https://play-lh.googleusercontent.com/3pb1PebAegbhexBA0vX7cQhDaijGlEory53AouhnP3U62CKQO58FGF_MrDSLzXZd_o5C",
-   "dev_url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
-   "studio": null
-  },
-  {
-   "rank": 40,
    "id": "com.mergegames.gossipharbor",
    "name": "Gossip Harbor: Merge & Story",
    "publisher": "Microfun Limited",
@@ -367,12 +358,21 @@
    "studio": null
   },
   {
+   "rank": 40,
+   "id": "io.supercent.pizzaidle",
+   "name": "Pizza Ready!",
+   "publisher": "Supercent, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/p0ncbS33mzwLiJlstZBvBKrXdtuFRNd7QtzE9Tenn_BP35FTN_kOjl8MFZ1cytpwbJhUYj1jjhZzHYYyfIFL-w",
+   "dev_url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
+   "studio": null
+  },
+  {
    "rank": 41,
-   "id": "com.u1.relax.minigame3",
-   "name": "Mini Challenges: Calm Games",
-   "publisher": "UltraPub",
-   "icon": "https://play-lh.googleusercontent.com/svB97GnlPQ0b6pJV2P9_JadaL1T79OYYHGN5ULyQZfpRU-7d1JSCFGioSZHPPgBaNVo-s357hplaK3wCm0tpEA",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.u1.relax.minigame3",
+   "id": "com.hmbl.perfect.makeover.cleaning.asmr",
+   "name": "Perfect Makeover Cleaning ASMR",
+   "publisher": "HMBL Apps",
+   "icon": "https://play-lh.googleusercontent.com/x9Fk7_BHb4pn-6YrqLQg37o53L_2G6WrAwYtqjdQKs8CUEcZSsvLeoYAtdqxrbT6wwUssMmI0IaiBG4I2HeL6g",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.hmbl.perfect.makeover.cleaning.asmr",
    "studio": null
   },
   {
@@ -380,21 +380,12 @@
    "id": "com.pixel.art.coloring.color.number",
    "name": "Happy Color®: Color by Number",
    "publisher": "X-FLOW",
-   "icon": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+   "icon": "https://play-lh.googleusercontent.com/SrSr_L4l99jgmGMy79N0_mEhpdn-fBqpg1hxobrs_daqRyZU-IUaiz3_07Bx-c5fB8JtHE0R5HpB2S8V3XAfJTs",
    "dev_url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number",
    "studio": null
   },
   {
    "rank": 43,
-   "id": "net.peakgames.match",
-   "name": "Match Factory!",
-   "publisher": "Peak",
-   "icon": "https://play-lh.googleusercontent.com/JdkgreDBCOxt7_0eeiVgbwtQkkdWmlWMO9cwAyj6rfVcAM5Z9l99zbg4eoUac5C0Bw",
-   "dev_url": "https://play.google.com/store/apps/details?id=net.peakgames.match",
-   "studio": null
-  },
-  {
-   "rank": 44,
    "id": "com.playrix.township",
    "name": "Township",
    "publisher": "Playrix",
@@ -403,12 +394,21 @@
    "studio": null
   },
   {
+   "rank": 44,
+   "id": "com.u1.relax.minigame3",
+   "name": "Mini Challenges: Calm Games",
+   "publisher": "UltraPub",
+   "icon": "https://play-lh.googleusercontent.com/svB97GnlPQ0b6pJV2P9_JadaL1T79OYYHGN5ULyQZfpRU-7d1JSCFGioSZHPPgBaNVo-s357hplaK3wCm0tpEA",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.u1.relax.minigame3",
+   "studio": null
+  },
+  {
    "rank": 45,
-   "id": "com.hmbl.perfect.makeover.cleaning.asmr",
-   "name": "Perfect Makeover Cleaning ASMR",
-   "publisher": "HMBL Apps",
-   "icon": "https://play-lh.googleusercontent.com/31r2A3-hdLdpVyTCUFYIv3u9GXdma7Xc57zspVJeUzmxLRrJ3RvpIdzsLlcAPcHJCnHt",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.hmbl.perfect.makeover.cleaning.asmr",
+   "id": "net.peakgames.match",
+   "name": "Match Factory!",
+   "publisher": "Peak",
+   "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
+   "dev_url": "https://play.google.com/store/apps/details?id=net.peakgames.match",
    "studio": null
   },
   {
@@ -422,29 +422,29 @@
   },
   {
    "rank": 47,
-   "id": "com.playstudios.tetrisblockparty",
-   "name": "Tetris® Block Party",
-   "publisher": "PLAYSTUDIOS US, LLC",
-   "icon": "https://play-lh.googleusercontent.com/eHJ0Z0gKx7Qabiy8V4CHU-YxLbI38jBB_4G1e5NvVsDso_oAHFVz_pHYlcbXeuWQOdM-qmY7fUBU2JLRs3_TfA",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty",
-   "studio": null
-  },
-  {
-   "rank": 48,
-   "id": "com.arrowout.puzzle.amzejam",
-   "name": "Arrows Puzzle Relax",
-   "publisher": "olfa",
-   "icon": "https://play-lh.googleusercontent.com/SFD4BqR_ewMPaU2fTz4IUVwvGW9sOZHRR1v9NeENYDegKu0Ue0f8g4UPzNJE2C58-lYXOSBa4mTLzjKQVYq1emA",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.arrowout.puzzle.amzejam",
-   "studio": null
-  },
-  {
-   "rank": 49,
    "id": "beats.color.sing.star.rush",
    "name": "Magic Level 9 Music Piano Game",
    "publisher": "Beatwave Studio",
    "icon": "https://play-lh.googleusercontent.com/eDOCvV6JtiIdIzRIaJrjQdh51uoMyrQu0rQzMCwAOdANj1mNAiJ1FdxNFQjHJf5_JPgcOJ75_jIcplCisr3P",
    "dev_url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush",
+   "studio": null
+  },
+  {
+   "rank": 48,
+   "id": "com.unept.leveldevil",
+   "name": "Level Devil - NOT A Troll Game",
+   "publisher": "Poki.com",
+   "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil",
+   "studio": null
+  },
+  {
+   "rank": 49,
+   "id": "com.arrowout.puzzle.amzejam",
+   "name": "Arrows Puzzle Relax",
+   "publisher": "olfa",
+   "icon": "https://play-lh.googleusercontent.com/SFD4BqR_ewMPaU2fTz4IUVwvGW9sOZHRR1v9NeENYDegKu0Ue0f8g4UPzNJE2C58-lYXOSBa4mTLzjKQVYq1emA",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.arrowout.puzzle.amzejam",
    "studio": null
   },
   {
@@ -458,20 +458,20 @@
   },
   {
    "rank": 51,
-   "id": "com.unept.leveldevil",
-   "name": "Level Devil - NOT A Troll Game",
-   "publisher": "Poki.com",
-   "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil",
-   "studio": null
-  },
-  {
-   "rank": 52,
    "id": "com.moonactive.cmboard",
    "name": "Coin Master - Board Adventure",
    "publisher": "Moon Active",
    "icon": "https://play-lh.googleusercontent.com/pFMYxxHpIsLKeaxO9wjVRpAsgMaLKbT1kPwofNQtGi69-6fF_eUyIViAMY66auDrvsJnw2h6S5rpF8XaZcrm",
    "dev_url": "https://play.google.com/store/apps/details?id=com.moonactive.cmboard",
+   "studio": null
+  },
+  {
+   "rank": 52,
+   "id": "com.playstudios.tetrisblockparty",
+   "name": "Tetris® Block Party",
+   "publisher": "PLAYSTUDIOS US, LLC",
+   "icon": "https://play-lh.googleusercontent.com/eHJ0Z0gKx7Qabiy8V4CHU-YxLbI38jBB_4G1e5NvVsDso_oAHFVz_pHYlcbXeuWQOdM-qmY7fUBU2JLRs3_TfA",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty",
    "studio": null
   },
   {
@@ -485,6 +485,15 @@
   },
   {
    "rank": 54,
+   "id": "com.halfbrick.fruitninjafree",
+   "name": "Fruit Ninja®",
+   "publisher": "Halfbrick Studios",
+   "icon": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree",
+   "studio": null
+  },
+  {
+   "rank": 55,
    "id": "com.dreamgames.royalmatch",
    "name": "Royal Match",
    "publisher": "Dream Games, Ltd.",
@@ -493,7 +502,7 @@
    "studio": null
   },
   {
-   "rank": 55,
+   "rank": 56,
    "id": "com.kiloo.subwaysurf",
    "name": "Subway Surfers",
    "publisher": "SYBO Games",
@@ -502,7 +511,7 @@
    "studio": "SYBO"
   },
   {
-   "rank": 56,
+   "rank": 57,
    "id": "com.run.tower.defense",
    "name": "Kingshot",
    "publisher": "Century Games PTE. LTD.",
@@ -511,34 +520,7 @@
    "studio": null
   },
   {
-   "rank": 57,
-   "id": "com.moonactive.coinmaster",
-   "name": "Coin Master",
-   "publisher": "Moon Active",
-   "icon": "https://play-lh.googleusercontent.com/b5QL7lke38opLtJxvaDw1EEyJuaRjzEEL4j4zt5MtYSWz6t6o9DrG6LkH6rA_lNFHBe4cnXEZR0D_q_IW_-rcQ",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
-   "studio": null
-  },
-  {
    "rank": 58,
-   "id": "com.sybogames.subway.surfers.game",
-   "name": "Subway Surfers City",
-   "publisher": "SYBO Games",
-   "icon": "https://play-lh.googleusercontent.com/nZ5IHWo23i_rj7hQ92qOPRiwA3jHxcc5kMtVc5hCcqxc6zTVvg1zjLfugZMkvmB2H-cpagHSyPNSGEo7HbU9SRc",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game",
-   "studio": "SYBO"
-  },
-  {
-   "rank": 59,
-   "id": "com.colorrful.sunny.sodda.sort",
-   "name": "Colorful Soda Sort",
-   "publisher": "Space Kraft Media",
-   "icon": "https://play-lh.googleusercontent.com/UlGZSUVBdF7xAdaMaJtYpMt-OXyrttxW6__fSf6XZdMmQ-ySWl6VBHeSjEEtw4WByPlPtagzJNanC3F_EDFR",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.colorrful.sunny.sodda.sort",
-   "studio": null
-  },
-  {
-   "rank": 60,
    "id": "com.fc.p.to.creepy.annoying.puzzle.story",
    "name": "Nightmare Puzzles: The Unknown",
    "publisher": "CYLINDER GLOBAL PTE. LTD.",
@@ -547,7 +529,34 @@
    "studio": null
   },
   {
+   "rank": 59,
+   "id": "com.sybogames.subway.surfers.game",
+   "name": "Subway Surfers City",
+   "publisher": "SYBO Games",
+   "icon": "https://play-lh.googleusercontent.com/nZ5IHWo23i_rj7hQ92qOPRiwA3jHxcc5kMtVc5hCcqxc6zTVvg1zjLfugZMkvmB2H-cpagHSyPNSGEo7HbU9SRc",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game",
+   "studio": "SYBO"
+  },
+  {
+   "rank": 60,
+   "id": "com.colorrful.sunny.sodda.sort",
+   "name": "Colorful Soda Sort",
+   "publisher": "Space Kraft Media",
+   "icon": "https://play-lh.googleusercontent.com/UlGZSUVBdF7xAdaMaJtYpMt-OXyrttxW6__fSf6XZdMmQ-ySWl6VBHeSjEEtw4WByPlPtagzJNanC3F_EDFR",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.colorrful.sunny.sodda.sort",
+   "studio": null
+  },
+  {
    "rank": 61,
+   "id": "com.moonactive.coinmaster",
+   "name": "Coin Master",
+   "publisher": "Moon Active",
+   "icon": "https://play-lh.googleusercontent.com/b5QL7lke38opLtJxvaDw1EEyJuaRjzEEL4j4zt5MtYSWz6t6o9DrG6LkH6rA_lNFHBe4cnXEZR0D_q_IW_-rcQ",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
+   "studio": null
+  },
+  {
+   "rank": 62,
    "id": "com.readygo.dark.gp",
    "name": "Dark War Survival",
    "publisher": "Omnilojo Pte Ltd",
@@ -556,7 +565,7 @@
    "studio": null
   },
   {
-   "rank": 62,
+   "rank": 63,
    "id": "com.activision.callofduty.shooter",
    "name": "Call of Duty®: Mobile",
    "publisher": "Activision Publishing, Inc.",
@@ -565,25 +574,7 @@
    "studio": null
   },
   {
-   "rank": 63,
-   "id": "com.hitappsgames.wordsolitaire",
-   "name": "Solitaire Associations Journey",
-   "publisher": "Hitapps Games",
-   "icon": "https://play-lh.googleusercontent.com/NriyZiaH8BOtRSXqY-B0C5d4wwTTz3LcEL71PewdQPxappaD42RQUSAymF1fqGCdm0Ocq8ycjpfF_LLC3Wt4",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
-   "studio": null
-  },
-  {
    "rank": 64,
-   "id": "com.Garawell.LoopSort",
-   "name": "Loop Sort",
-   "publisher": "VOODOO",
-   "icon": "https://play-lh.googleusercontent.com/xCR6ceI26CsF4U4UBs4eJw0LQsQT3g9E59RgoREQfKU7hlfnXuuf8TAIZ-dE0uNRrLyakmsA0MUpmf-zm4Kfcdc",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.Garawell.LoopSort",
-   "studio": null
-  },
-  {
-   "rank": 65,
    "id": "com.fidgettrading.game",
    "name": "Fidget Toys Trading・Pop It 3D",
    "publisher": "Freeplay Inc",
@@ -592,7 +583,7 @@
    "studio": null
   },
   {
-   "rank": 66,
+   "rank": 65,
    "id": "com.fungames.blockcraft",
    "name": "Block Craft 3D：Building Game",
    "publisher": "Wildlife Studios",
@@ -601,21 +592,30 @@
    "studio": null
   },
   {
-   "rank": 67,
-   "id": "dress.up.fashion.makeup.style.makeover.girl.rebel.queen",
-   "name": "Rebel Glam: Dress Up Games",
-   "publisher": "31 Dress up Games",
-   "icon": "https://play-lh.googleusercontent.com/__0GqWORXLmuNqco7IHHvjK9QBrX-yzUjw4_pKY7v6IL4wQGJ9pG_f5cEzeUz8Q4x5D7KT6UAxduqgAO27Ar",
-   "dev_url": "https://play.google.com/store/apps/details?id=dress.up.fashion.makeup.style.makeover.girl.rebel.queen",
-   "studio": null
-  },
-  {
-   "rank": 68,
+   "rank": 66,
    "id": "com.unicostudio.gameishard",
    "name": "Game Is Hard",
    "publisher": "Unico Studio",
    "icon": "https://play-lh.googleusercontent.com/PqPUmUsulk9p1VVdMdb92lFonNFT52qXrYMQc3XvvVYhwwQSgMW8SMI-vAdFh8talz3Q9yu24UmnkCihWXHY8g",
    "dev_url": "https://play.google.com/store/apps/details?id=com.unicostudio.gameishard",
+   "studio": null
+  },
+  {
+   "rank": 67,
+   "id": "com.hitappsgames.wordsolitaire",
+   "name": "Solitaire Associations Journey",
+   "publisher": "Hitapps Games",
+   "icon": "https://play-lh.googleusercontent.com/NriyZiaH8BOtRSXqY-B0C5d4wwTTz3LcEL71PewdQPxappaD42RQUSAymF1fqGCdm0Ocq8ycjpfF_LLC3Wt4",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
+   "studio": null
+  },
+  {
+   "rank": 68,
+   "id": "com.Garawell.LoopSort",
+   "name": "Loop Sort",
+   "publisher": "VOODOO",
+   "icon": "https://play-lh.googleusercontent.com/xCR6ceI26CsF4U4UBs4eJw0LQsQT3g9E59RgoREQfKU7hlfnXuuf8TAIZ-dE0uNRrLyakmsA0MUpmf-zm4Kfcdc",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.Garawell.LoopSort",
    "studio": null
   },
   {
@@ -629,6 +629,15 @@
   },
   {
    "rank": 70,
+   "id": "dress.up.fashion.makeup.style.makeover.girl.rebel.queen",
+   "name": "Rebel Glam: Dress Up Games",
+   "publisher": "31 Dress up Games",
+   "icon": "https://play-lh.googleusercontent.com/__0GqWORXLmuNqco7IHHvjK9QBrX-yzUjw4_pKY7v6IL4wQGJ9pG_f5cEzeUz8Q4x5D7KT6UAxduqgAO27Ar",
+   "dev_url": "https://play.google.com/store/apps/details?id=dress.up.fashion.makeup.style.makeover.girl.rebel.queen",
+   "studio": null
+  },
+  {
+   "rank": 71,
    "id": "wool.match.color.sort.jam.puzzle",
    "name": "Wool Crush™",
    "publisher": "Astrasen Global",
@@ -637,25 +646,7 @@
    "studio": null
   },
   {
-   "rank": 71,
-   "id": "com.awesome.puzzlehexasort",
-   "name": "Color Slide - Hexa Puzzle",
-   "publisher": "SayGames Ltd",
-   "icon": "https://play-lh.googleusercontent.com/v3MFZWyekCymTc3Ks7tfl06FwGPfvHOZ5KxMmq-01H6LZYI2EFjTyvSoNBUO4wG3zhYqRXlc_ipP9YENHX10euQ",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.awesome.puzzlehexasort",
-   "studio": null
-  },
-  {
    "rank": 72,
-   "id": "com.halfbrick.fruitninjafree",
-   "name": "Fruit Ninja®",
-   "publisher": "Halfbrick Studios",
-   "icon": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree",
-   "studio": null
-  },
-  {
-   "rank": 73,
    "id": "com.easybrain.number.puzzle.game",
    "name": "Number Match - Number Games",
    "publisher": "Easybrain",
@@ -664,16 +655,16 @@
    "studio": "Easybrain"
   },
   {
-   "rank": 74,
-   "id": "com.nianticlabs.pokemongo",
-   "name": "Pokémon GO",
-   "publisher": "Niantic, Inc.",
-   "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+   "rank": 73,
+   "id": "com.awesome.puzzlehexasort",
+   "name": "Color Slide - Hexa Puzzle",
+   "publisher": "SayGames Ltd",
+   "icon": "https://play-lh.googleusercontent.com/v3MFZWyekCymTc3Ks7tfl06FwGPfvHOZ5KxMmq-01H6LZYI2EFjTyvSoNBUO4wG3zhYqRXlc_ipP9YENHX10euQ",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.awesome.puzzlehexasort",
    "studio": null
   },
   {
-   "rank": 75,
+   "rank": 74,
    "id": "com.brain.crazy.joygame",
    "name": "Brain Puzzle 3: Crazy Mind",
    "publisher": "JoyGame Studio",
@@ -682,12 +673,21 @@
    "studio": null
   },
   {
+   "rank": 75,
+   "id": "com.nianticlabs.pokemongo",
+   "name": "Pokémon GO",
+   "publisher": "Niantic, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+   "studio": null
+  },
+  {
    "rank": 76,
-   "id": "com.oakever.jigsawcard",
-   "name": "Jigsawcard Solitaire Puzzle",
-   "publisher": "Oakever Games",
-   "icon": "https://play-lh.googleusercontent.com/Y0FsWHRxWQxlDKBkrztiM7z8D9DKH602TvpI7_ky5Fi4usGfYGxOMrOz18uvI2dAAUbRJT0l37_fRJLBgnNyXA",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard",
+   "id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
+   "name": "Hidden Object Games: Seek It",
+   "publisher": "NimbleMind Network Inc.",
+   "icon": "https://play-lh.googleusercontent.com/tnpaY0H8hqZtudd-7EU-aLrJnbhDJXy5F_4tpW5-002TN2OuRSUFo-JqrYqIcvvmss9tWqT3gOiA-fNpOqsIpQ",
+   "dev_url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free",
    "studio": null
   },
   {
@@ -695,17 +695,17 @@
    "id": "io.supercent.weaponrpg",
    "name": "XP Hero",
    "publisher": "Supercent, Inc.",
-   "icon": "https://play-lh.googleusercontent.com/GOjkk4uB3HYnNR5t3bTcUNUR_KSvj2J8J54dA0Vy-UOrgJYJwU4mpAH5yq2wsn1EZuk",
+   "icon": "https://play-lh.googleusercontent.com/ar-oRoBtoJXIBCzL_QV4w5r7RJhCrRSHl1Hggi_hsy16yL55kCJyG96TqJF-kAQNwk7FfZG0BoBMK57Pe9t-Bg",
    "dev_url": "https://play.google.com/store/apps/details?id=io.supercent.weaponrpg",
    "studio": null
   },
   {
    "rank": 78,
-   "id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-   "name": "Hidden Object Games: Seek It",
-   "publisher": "NimbleMind Network Inc.",
-   "icon": "https://play-lh.googleusercontent.com/tnpaY0H8hqZtudd-7EU-aLrJnbhDJXy5F_4tpW5-002TN2OuRSUFo-JqrYqIcvvmss9tWqT3gOiA-fNpOqsIpQ",
-   "dev_url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free",
+   "id": "com.oakever.jigsawcard",
+   "name": "Jigsawcard Solitaire Puzzle",
+   "publisher": "Oakever Games",
+   "icon": "https://play-lh.googleusercontent.com/Y0FsWHRxWQxlDKBkrztiM7z8D9DKH602TvpI7_ky5Fi4usGfYGxOMrOz18uvI2dAAUbRJT0l37_fRJLBgnNyXA",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard",
    "studio": null
   },
   {
@@ -728,15 +728,6 @@
   },
   {
    "rank": 81,
-   "id": "com.pocket.sort.coin.puzzle.game",
-   "name": "Pocket Sort: Coin Merge Puzzle",
-   "publisher": "SayGames Ltd",
-   "icon": "https://play-lh.googleusercontent.com/nB3aVJ6eYhfGa1m1EzgvE0RjH3C13v2wLLrwkQYzsG0427-jyQDopxiddjDOQNpOSoePVcl7jNgBUPXOCVmjXg",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.pocket.sort.coin.puzzle.game",
-   "studio": null
-  },
-  {
-   "rank": 82,
    "id": "com.advant.streamer",
    "name": "Lamar - Idle Vlogger",
    "publisher": "CrazyLabs LTD",
@@ -745,16 +736,7 @@
    "studio": null
   },
   {
-   "rank": 83,
-   "id": "com.king.candycrushsaga",
-   "name": "Candy Crush Saga",
-   "publisher": "King",
-   "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
-   "studio": null
-  },
-  {
-   "rank": 84,
+   "rank": 82,
    "id": "jp.pokemon.pokemontcgp",
    "name": "Pokémon TCG Pocket - Card Game",
    "publisher": "The Pokémon Company",
@@ -763,124 +745,25 @@
    "studio": null
   },
   {
+   "rank": 83,
+   "id": "com.pocket.sort.coin.puzzle.game",
+   "name": "Pocket Sort: Coin Merge Puzzle",
+   "publisher": "SayGames Ltd",
+   "icon": "https://play-lh.googleusercontent.com/nB3aVJ6eYhfGa1m1EzgvE0RjH3C13v2wLLrwkQYzsG0427-jyQDopxiddjDOQNpOSoePVcl7jNgBUPXOCVmjXg",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.pocket.sort.coin.puzzle.game",
+   "studio": null
+  },
+  {
+   "rank": 84,
+   "id": "com.king.candycrushsaga",
+   "name": "Candy Crush Saga",
+   "publisher": "King",
+   "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+   "studio": null
+  },
+  {
    "rank": 85,
-   "id": "com.arrow.madness.games.arrows.escape.puzzle.game",
-   "name": "Arrow Puzzle - Arrow Madness",
-   "publisher": "Ashita Games",
-   "icon": "https://play-lh.googleusercontent.com/E1Nc9AzmWqLqdnQqBVJ6FKR0Vx4ZOdTA9bVaj0WCuB9xI0bvSYzkAghvb1Eo7s2qRGSkirAnlC53WoVxYj7fjNc",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.arrow.madness.games.arrows.escape.puzzle.game",
-   "studio": null
-  },
-  {
-   "rank": 86,
-   "id": "com.JindoBlu.OfflineGames",
-   "name": "Offline Games - No Wifi Games",
-   "publisher": "JindoBlu",
-   "icon": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames",
-   "studio": null
-  },
-  {
-   "rank": 87,
-   "id": "com.xman.na.gp",
-   "name": "X-Clash",
-   "publisher": "Glaciers Game",
-   "icon": "https://play-lh.googleusercontent.com/GMuv_u_dYAoPobcm_U1sAtT8jzqDUf-wFJUAUKt5ICDf-XPIbWmjLWaEZ6TOt3TFwynLyQXMWbjEHZDigxQ1",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.xman.na.gp",
-   "studio": null
-  },
-  {
-   "rank": 88,
-   "id": "com.NewFolderGames.IAmCat",
-   "name": "I Am Cat",
-   "publisher": "Estoty",
-   "icon": "https://play-lh.googleusercontent.com/DNG4vEqTk4K5KXfg9vXbE4P0SGBbHIi5FIESNJd_bCDQlOg7oi8K4kgmEddUaCCAKh7se-8I7BbUg77BSlmy",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmCat",
-   "studio": null
-  },
-  {
-   "rank": 89,
-   "id": "com.gtsy.annoying.punch.game",
-   "name": "Annoying Uncle Punch Game®",
-   "publisher": "Game District LLC",
-   "icon": "https://play-lh.googleusercontent.com/x1RWw8lkChwD5Ip4uh4_w72jvJ6KMj_pWWBoT3NGhIXknPdhquAMHW_dkgsEl-R_0fOXdzi6mcK1oOpx8_cAZ5U",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game",
-   "studio": null
-  },
-  {
-   "rank": 90,
-   "id": "com.playgendary.kickthebuddy",
-   "name": "Kick the Buddy－Fun Action Game",
-   "publisher": "Playgendary Limited",
-   "icon": "https://play-lh.googleusercontent.com/GXhlshcE4xs4TBriwgzZtF1lMsRAcnbvC1HvDYxa9aRzaJBicf81e69X1TIUYCuc0sRSajWbvyGn1K3D1tbX7_0",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy",
-   "studio": null
-  },
-  {
-   "rank": 91,
-   "id": "com.europosit.pixelcoloring",
-   "name": "Pixel Art - Color by Number",
-   "publisher": "Easybrain",
-   "icon": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring",
-   "studio": "Easybrain"
-  },
-  {
-   "rank": 92,
-   "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
-   "name": "Block Crazy Robo World Craft",
-   "publisher": "Prokids Studio",
-   "icon": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft",
-   "studio": null
-  },
-  {
-   "rank": 93,
-   "id": "com.innplaylabs.animalkingdomraid",
-   "name": "Animals & Coins Adventure Game",
-   "publisher": "Innplay Labs",
-   "icon": "https://play-lh.googleusercontent.com/hkBI676r8G05kQEhxXgzDuACsU3FG9QdAH-6po7D9Ev-UTW3cVmAai6U6GhZHSIE4iU_lX2_zFcJpCcOcxHr",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.innplaylabs.animalkingdomraid",
-   "studio": null
-  },
-  {
-   "rank": 94,
-   "id": "com.GybeGames.ColorBlockJam",
-   "name": "Color Block Jam",
-   "publisher": "Rollic Games",
-   "icon": "https://play-lh.googleusercontent.com/H-FJz6OLSLhFmflq2HoasMWZTNf38JyJ_j64ekCCZaKVcJCUQn-_foneJrV1Bd_as7-vCMiZQpY7QUWk3ArevQ",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.GybeGames.ColorBlockJam",
-   "studio": null
-  },
-  {
-   "rank": 95,
-   "id": "com.zjcs.android.us",
-   "name": "Sword x Staff",
-   "publisher": "BOLTRAY GAMES",
-   "icon": "https://play-lh.googleusercontent.com/AAC1rlyE9xM_2XunmsEw5l_r23WWYAuYL8PsnAjVhwbpm9J7sj1a8-dZZyNgmQaP4d5sUk6O_cbkCPrLB5_5",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.zjcs.android.us",
-   "studio": null
-  },
-  {
-   "rank": 96,
-   "id": "com.FidgetTrading3D.game",
-   "name": "Fidget Trading 3D Fidget Toys",
-   "publisher": "MagicLab",
-   "icon": "https://play-lh.googleusercontent.com/-JMjNf6NyJNyeo7NQ4pp6x8tVDyCmooI24QPeZ0Xvc6-FA3ZTQ6COhJs3P7fCuExMlTN00RkJW_WAMqKtOLmxJw",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.FidgetTrading3D.game",
-   "studio": null
-  },
-  {
-   "rank": 97,
-   "id": "com.metagame.annoying.trick.brainypuzzle",
-   "name": "Brainy Escape Quest",
-   "publisher": "Metagame.Ltd",
-   "icon": "https://play-lh.googleusercontent.com/EAM3IMjpOfxx0kHbmxLhBswGoDJRnMXv8Hfax_N7BD4no70H7vj95cAhxcLBOQuHIseMg6btqte4BOhh1jDHqlo",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.metagame.annoying.trick.brainypuzzle",
-   "studio": null
-  },
-  {
-   "rank": 98,
    "id": "com.meemeegames.categorysort",
    "name": "Category Sort",
    "publisher": "Lion Studios Plus",
@@ -889,21 +772,138 @@
    "studio": null
   },
   {
+   "rank": 86,
+   "id": "com.GybeGames.ColorBlockJam",
+   "name": "Color Block Jam",
+   "publisher": "Rollic Games",
+   "icon": "https://play-lh.googleusercontent.com/H-FJz6OLSLhFmflq2HoasMWZTNf38JyJ_j64ekCCZaKVcJCUQn-_foneJrV1Bd_as7-vCMiZQpY7QUWk3ArevQ",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.GybeGames.ColorBlockJam",
+   "studio": null
+  },
+  {
+   "rank": 87,
+   "id": "com.JindoBlu.OfflineGames",
+   "name": "Offline Games - No Wifi Games",
+   "publisher": "JindoBlu",
+   "icon": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames",
+   "studio": null
+  },
+  {
+   "rank": 88,
+   "id": "com.europosit.pixelcoloring",
+   "name": "Pixel Art - Color by Number",
+   "publisher": "Easybrain",
+   "icon": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring",
+   "studio": "Easybrain"
+  },
+  {
+   "rank": 89,
+   "id": "com.NewFolderGames.IAmCat",
+   "name": "I Am Cat",
+   "publisher": "Estoty",
+   "icon": "https://play-lh.googleusercontent.com/DNG4vEqTk4K5KXfg9vXbE4P0SGBbHIi5FIESNJd_bCDQlOg7oi8K4kgmEddUaCCAKh7se-8I7BbUg77BSlmy",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmCat",
+   "studio": null
+  },
+  {
+   "rank": 90,
+   "id": "com.arrow.madness.games.arrows.escape.puzzle.game",
+   "name": "Arrow Puzzle - Arrow Madness",
+   "publisher": "Ashita Games",
+   "icon": "https://play-lh.googleusercontent.com/E1Nc9AzmWqLqdnQqBVJ6FKR0Vx4ZOdTA9bVaj0WCuB9xI0bvSYzkAghvb1Eo7s2qRGSkirAnlC53WoVxYj7fjNc",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.arrow.madness.games.arrows.escape.puzzle.game",
+   "studio": null
+  },
+  {
+   "rank": 91,
+   "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
+   "name": "Block Crazy Robo World Craft",
+   "publisher": "Prokids Studio",
+   "icon": "https://play-lh.googleusercontent.com/6-rB2tudCQ1RHx2g8ZQS6PEaamL3XQpgit6MPdHu4KBKRHlJzZZXUw8D9d-Ez1VTPj5QZKFu_GTcprADe5SY",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft",
+   "studio": null
+  },
+  {
+   "rank": 92,
+   "id": "com.playgendary.kickthebuddy",
+   "name": "Kick the Buddy－Fun Action Game",
+   "publisher": "Playgendary Limited",
+   "icon": "https://play-lh.googleusercontent.com/GXhlshcE4xs4TBriwgzZtF1lMsRAcnbvC1HvDYxa9aRzaJBicf81e69X1TIUYCuc0sRSajWbvyGn1K3D1tbX7_0",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy",
+   "studio": null
+  },
+  {
+   "rank": 93,
+   "id": "com.gtsy.annoying.punch.game",
+   "name": "Annoying Uncle Punch Game®",
+   "publisher": "Game District LLC",
+   "icon": "https://play-lh.googleusercontent.com/x1RWw8lkChwD5Ip4uh4_w72jvJ6KMj_pWWBoT3NGhIXknPdhquAMHW_dkgsEl-R_0fOXdzi6mcK1oOpx8_cAZ5U",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game",
+   "studio": null
+  },
+  {
+   "rank": 94,
+   "id": "com.innplaylabs.animalkingdomraid",
+   "name": "Animals & Coins Adventure Game",
+   "publisher": "Innplay Labs",
+   "icon": "https://play-lh.googleusercontent.com/hkBI676r8G05kQEhxXgzDuACsU3FG9QdAH-6po7D9Ev-UTW3cVmAai6U6GhZHSIE4iU_lX2_zFcJpCcOcxHr",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.innplaylabs.animalkingdomraid",
+   "studio": null
+  },
+  {
+   "rank": 95,
+   "id": "com.xman.na.gp",
+   "name": "X-Clash",
+   "publisher": "Glaciers Game",
+   "icon": "https://play-lh.googleusercontent.com/GMuv_u_dYAoPobcm_U1sAtT8jzqDUf-wFJUAUKt5ICDf-XPIbWmjLWaEZ6TOt3TFwynLyQXMWbjEHZDigxQ1",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.xman.na.gp",
+   "studio": null
+  },
+  {
+   "rank": 96,
+   "id": "com.grass.cut.game",
+   "name": "Grass Master – Cutting Game",
+   "publisher": "SayGames Ltd",
+   "icon": "https://play-lh.googleusercontent.com/TFmMJMef9NCf8AmQUlNwJces0KupdLvQNjd7PFI6e5r8YV3Wgewqz6fiakbNS4VsiY4JzjRX1AOrEikwEMe4rw",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.grass.cut.game",
+   "studio": null
+  },
+  {
+   "rank": 97,
+   "id": "com.zjcs.android.us",
+   "name": "Sword x Staff",
+   "publisher": "BOLTRAY GAMES",
+   "icon": "https://play-lh.googleusercontent.com/AAC1rlyE9xM_2XunmsEw5l_r23WWYAuYL8PsnAjVhwbpm9J7sj1a8-dZZyNgmQaP4d5sUk6O_cbkCPrLB5_5",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.zjcs.android.us",
+   "studio": null
+  },
+  {
+   "rank": 98,
+   "id": "com.FidgetTrading3D.game",
+   "name": "Fidget Trading 3D Fidget Toys",
+   "publisher": "MagicLab",
+   "icon": "https://play-lh.googleusercontent.com/-JMjNf6NyJNyeo7NQ4pp6x8tVDyCmooI24QPeZ0Xvc6-FA3ZTQ6COhJs3P7fCuExMlTN00RkJW_WAMqKtOLmxJw",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.FidgetTrading3D.game",
+   "studio": null
+  },
+  {
    "rank": 99,
-   "id": "com.tvf.anti.stress.relaxing.mini.games",
-   "name": "Mini Fidget Antistress Games",
-   "publisher": "The Fashion Valley",
-   "icon": "https://play-lh.googleusercontent.com/XgpsxD-aQq1Je6LSg5T_3Vx-QqtLxF04NFHUuig8VEFEvgyiZ6nN0Q_oJw0Af2N36cAp",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.tvf.anti.stress.relaxing.mini.games",
+   "id": "com.metagame.annoying.trick.brainypuzzle",
+   "name": "Brainy Escape Quest",
+   "publisher": "Metagame.Ltd",
+   "icon": "https://play-lh.googleusercontent.com/EAM3IMjpOfxx0kHbmxLhBswGoDJRnMXv8Hfax_N7BD4no70H7vj95cAhxcLBOQuHIseMg6btqte4BOhh1jDHqlo",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.metagame.annoying.trick.brainypuzzle",
    "studio": null
   },
   {
    "rank": 100,
-   "id": "com.fatmerge.global",
-   "name": "Tasty Travels: Merge Game",
-   "publisher": "Century Games PTE. LTD.",
-   "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.fatmerge.global",
+   "id": "com.tvf.anti.stress.relaxing.mini.games",
+   "name": "Mini Fidget Antistress Games",
+   "publisher": "The Fashion Valley",
+   "icon": "https://play-lh.googleusercontent.com/4KWBPssWM4-LSzSPcF04LMho2fPCQY1Z20Wzvmi6jF9JlApKfw8Td1GNUdaEax8wEP8sTI0WvcsnxGVBK9Xhuw",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.tvf.anti.stress.relaxing.mini.games",
    "studio": null
   }
  ]

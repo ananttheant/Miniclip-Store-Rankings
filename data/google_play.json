@@ -1,8 +1,8 @@
 {
  "store": "google_play",
- "updated_at": "2026-08-19T00:54:56.097Z",
+ "updated_at": "2026-08-20T00:54:22.215Z",
  "source": "Google Play · Top Free Games (US)",
- "generated_at": "2026-08-19T00:54:56.097Z",
+ "generated_at": "2026-08-20T00:54:22.215Z",
  "total": 100,
  "miniclip_count": 5,
  "games": [
@@ -722,7 +722,7 @@
    "id": "com.outfit7.mytalkingtomfriends",
    "name": "My Talking Tom Friends",
    "publisher": "Outfit7 Limited",
-   "icon": "https://play-lh.googleusercontent.com/Ro9ku479wY_E6psjzCsCw9ezuyaszBo886zlp0y3Z88sTOaZLdATlRQyngqGQbT7KMbxopEUvyYtlYfJeKrqbA",
+   "icon": "https://play-lh.googleusercontent.com/ogOoauqYB2LgfaMQSOb8HZfpduiNN8IyRMfrSs6XrHJe39E7MMs3EronRToSq-wQdGGyglU0milSMlzM214P0g",
    "dev_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends",
    "studio": null
   },

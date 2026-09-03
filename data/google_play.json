@@ -1,8 +1,8 @@
 {
  "store": "google_play",
- "updated_at": "2026-09-02T02:27:40.623Z",
+ "updated_at": "2026-09-03T02:34:26.811Z",
  "source": "Google Play · Top Free Games (US)",
- "generated_at": "2026-09-02T02:27:40.623Z",
+ "generated_at": "2026-09-03T02:34:26.811Z",
  "total": 100,
  "miniclip_count": 4,
  "games": [
@@ -315,7 +315,7 @@
   {
    "rank": 35,
    "id": "gridplus.busjam.carpuzzle",
-   "name": "Bus Fever! Car Jam Escape",
+   "name": "Bus Fever Party!",
    "publisher": "Lumi Games",
    "icon": "https://play-lh.googleusercontent.com/P5X4m-dDF31hnhlQvGE1L3MAJonj8KmnQQxj4nQl77Eg8kI2K-XFLu3UGStPC7hgP7VMrTf8ieurxA-rqdukwQ",
    "dev_url": "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle",
@@ -557,15 +557,6 @@
   },
   {
    "rank": 62,
-   "id": "com.hp.hide.hunt.paint",
-   "name": "Paint & Hide: Color Guys",
-   "publisher": "HIGAME GLOBAL",
-   "icon": "https://play-lh.googleusercontent.com/1HTRU1KwDb965uWFVmGZghmjvvG0lhA36vHT0opJ00uOxaQhP4QxdbnQ8RIei93LYyaPSNYGY0D1t9N12lJ0CA",
-   "dev_url": "https://play.google.com/store/apps/details?id=com.hp.hide.hunt.paint",
-   "studio": null
-  },
-  {
-   "rank": 63,
    "id": "solitaire.patience.card.games.klondike.free",
    "name": "Solitaire - Classic Card Games",
    "publisher": "Guru Puzzle Game",
@@ -574,7 +565,7 @@
    "studio": null
   },
   {
-   "rank": 64,
+   "rank": 63,
    "id": "com.metax.obby.escape.run",
    "name": "Gugu Gaga: Keyboard Escape",
    "publisher": "Goldoint",
@@ -583,7 +574,7 @@
    "studio": null
   },
   {
-   "rank": 65,
+   "rank": 64,
    "id": "com.combo.knockout",
    "name": "Knock Out",
    "publisher": "Combo Game",
@@ -592,7 +583,7 @@
    "studio": null
   },
   {
-   "rank": 66,
+   "rank": 65,
    "id": "com.pawakuma.hitfortune",
    "name": "Hit Fortune - Casino Slots",
    "publisher": "BRAVOOCEAN INDIA PRIVATE LIMITED",
@@ -601,7 +592,7 @@
    "studio": null
   },
   {
-   "rank": 67,
+   "rank": 66,
    "id": "net.peakgames.match",
    "name": "Match Factory!",
    "publisher": "Peak",
@@ -610,7 +601,7 @@
    "studio": null
   },
   {
-   "rank": 68,
+   "rank": 67,
    "id": "in.playsimple.wordsearch",
    "name": "Word Search Explorer",
    "publisher": "PlaySimple Games",
@@ -619,7 +610,7 @@
    "studio": null
   },
   {
-   "rank": 69,
+   "rank": 68,
    "id": "com.arrow.out",
    "name": "Point Out: Color Escape Puzzle",
    "publisher": "Lion Studios Plus",
@@ -628,7 +619,7 @@
    "studio": null
   },
   {
-   "rank": 70,
+   "rank": 69,
    "id": "com.media720.games2020",
    "name": "Offline Games: No WiFi - FunOn",
    "publisher": "Fun Offline Games",
@@ -637,7 +628,7 @@
    "studio": null
   },
   {
-   "rank": 71,
+   "rank": 70,
    "id": "com.gof.global",
    "name": "Whiteout Survival",
    "publisher": "Century Games PTE. LTD.",
@@ -646,7 +637,7 @@
    "studio": null
   },
   {
-   "rank": 72,
+   "rank": 71,
    "id": "com.totalbattle",
    "name": "Total Battle: War Strategy",
    "publisher": "Scorewarrior",
@@ -655,7 +646,7 @@
    "studio": null
   },
   {
-   "rank": 73,
+   "rank": 72,
    "id": "com.nianticlabs.pokemongo",
    "name": "Pokémon GO",
    "publisher": "Scopely Explore, Inc.",
@@ -664,7 +655,7 @@
    "studio": null
   },
   {
-   "rank": 74,
+   "rank": 73,
    "id": "com.soulland.us",
    "name": "Soul Land: New World",
    "publisher": "LING CHAI (HONG KONG) LIMITED",
@@ -673,7 +664,7 @@
    "studio": null
   },
   {
-   "rank": 75,
+   "rank": 74,
    "id": "com.animal.hunter.shooting.apex",
    "name": "Apex Hunter: Animal Shooting",
    "publisher": "CozyCraft",
@@ -682,7 +673,7 @@
    "studio": null
   },
   {
-   "rank": 76,
+   "rank": 75,
    "id": "com.epicoro.castleclashers",
    "name": "Castle Busters",
    "publisher": "VOODOO",
@@ -691,7 +682,7 @@
    "studio": null
   },
   {
-   "rank": 77,
+   "rank": 76,
    "id": "com.activision.callofduty.shooter",
    "name": "Call of Duty®: Mobile",
    "publisher": "Activision Publishing, Inc.",
@@ -700,7 +691,7 @@
    "studio": null
   },
   {
-   "rank": 78,
+   "rank": 77,
    "id": "net.happywit.screw.out.jam",
    "name": "Screw Out 3D: Nut Sort Jam",
    "publisher": "Unico Studio",
@@ -709,7 +700,7 @@
    "studio": null
   },
   {
-   "rank": 79,
+   "rank": 78,
    "id": "com.JindoBlu.OfflineGames",
    "name": "Offline Games - No Wifi Games",
    "publisher": "JindoBlu",
@@ -718,7 +709,7 @@
    "studio": null
   },
   {
-   "rank": 80,
+   "rank": 79,
    "id": "com.fluffydrop.op.gp",
    "name": "Fluffy Drop - No Timer",
    "publisher": "UniRise Studio",
@@ -727,7 +718,7 @@
    "studio": null
   },
   {
-   "rank": 81,
+   "rank": 80,
    "id": "com.zm.waterpack",
    "name": "Get Color Pack: Sort Puzzle",
    "publisher": "Tripledot Studios Limited",
@@ -736,7 +727,7 @@
    "studio": null
   },
   {
-   "rank": 82,
+   "rank": 81,
    "id": "com.ea.gp.fifamobile",
    "name": "EA SPORTS FC Soccer Mobile 26",
    "publisher": "ELECTRONIC ARTS",
@@ -745,7 +736,7 @@
    "studio": null
   },
   {
-   "rank": 83,
+   "rank": 82,
    "id": "com.peoplefun.wordsearch",
    "name": "Wordscapes Search: Word Games",
    "publisher": "PeopleFun",
@@ -754,7 +745,7 @@
    "studio": null
   },
   {
-   "rank": 84,
+   "rank": 83,
    "id": "com.novas.craft.battle.mod.block.war",
    "name": "Craft Battle: Block Wars",
    "publisher": "Coup Coup LTD",
@@ -763,7 +754,7 @@
    "studio": null
   },
   {
-   "rank": 85,
+   "rank": 84,
    "id": "com.leap.searchit",
    "name": "Search It - Hidden Objects",
    "publisher": "Leap Game Studios",
@@ -772,7 +763,7 @@
    "studio": null
   },
   {
-   "rank": 86,
+   "rank": 85,
    "id": "com.mahjong.master.solitaire.match.puzzle",
    "name": "Mahjong Master: Daily Match",
    "publisher": "Mindful Daily Puzzles",
@@ -781,16 +772,16 @@
    "studio": null
   },
   {
-   "rank": 87,
+   "rank": 86,
    "id": "com.GybeGames.ColorBlockJam",
    "name": "Color Block Jam",
    "publisher": "Rollic Games",
-   "icon": "https://play-lh.googleusercontent.com/H-FJz6OLSLhFmflq2HoasMWZTNf38JyJ_j64ekCCZaKVcJCUQn-_foneJrV1Bd_as7-vCMiZQpY7QUWk3ArevQ",
+   "icon": "https://play-lh.googleusercontent.com/u79DV5PkjChH9ZmTiHjPn5NoOHXgxc00sQPwyiVLQ3UrbukNEeRojtSo_NbvxGbHngZTt97I9SVlJEOIJE-75g",
    "dev_url": "https://play.google.com/store/apps/details?id=com.GybeGames.ColorBlockJam",
    "studio": null
   },
   {
-   "rank": 88,
+   "rank": 87,
    "id": "com.NewFolderGames.IAmCat",
    "name": "I Am Cat",
    "publisher": "Estoty",
@@ -799,7 +790,7 @@
    "studio": null
   },
   {
-   "rank": 89,
+   "rank": 88,
    "id": "com.gtsy.annoying.punch.game",
    "name": "Annoying Uncle Punch Game®",
    "publisher": "Game District LLC",
@@ -808,7 +799,7 @@
    "studio": null
   },
   {
-   "rank": 90,
+   "rank": 89,
    "id": "com.s01.global",
    "name": "Lordrush",
    "publisher": "Century Games Innovation Pte. Ltd.",
@@ -817,7 +808,7 @@
    "studio": null
   },
   {
-   "rank": 91,
+   "rank": 90,
    "id": "com.run.tower.defense",
    "name": "Kingshot",
    "publisher": "Century Games PTE. LTD.",
@@ -826,7 +817,7 @@
    "studio": null
   },
   {
-   "rank": 92,
+   "rank": 91,
    "id": "color.number.paint.pixle.art.sort.jigsaw",
    "name": "Jewel Coloring",
    "publisher": "TaTa Game Technology Limited",
@@ -835,7 +826,7 @@
    "studio": null
   },
   {
-   "rank": 93,
+   "rank": 92,
    "id": "com.cedargames.mysterytown",
    "name": "Mystery Town: Merge Games",
    "publisher": "Cedar Games Studio",
@@ -844,7 +835,7 @@
    "studio": null
   },
   {
-   "rank": 94,
+   "rank": 93,
    "id": "io.supercent.pizzaidle",
    "name": "Pizza Ready!",
    "publisher": "Supercent, Inc.",
@@ -853,7 +844,7 @@
    "studio": null
   },
   {
-   "rank": 95,
+   "rank": 94,
    "id": "com.more.lastshelter.gp",
    "name": "Last Shelter: War Z",
    "publisher": "LAST ORIGIN STUDIO LIMITED",
@@ -862,7 +853,7 @@
    "studio": null
   },
   {
-   "rank": 96,
+   "rank": 95,
    "id": "com.phs.global",
    "name": "Last Asylum: Plague",
    "publisher": "37GAMES GLOBAL",
@@ -871,7 +862,7 @@
    "studio": null
   },
   {
-   "rank": 97,
+   "rank": 96,
    "id": "com.starplay.wreckracing",
    "name": "Cars Royale: League of Rocket",
    "publisher": "Starplay FZCO",
@@ -880,7 +871,7 @@
    "studio": null
   },
   {
-   "rank": 98,
+   "rank": 97,
    "id": "com.WalkTalk.FlightMaster",
    "name": "Epic Plane Evolution",
    "publisher": "VOODOO",
@@ -889,7 +880,7 @@
    "studio": null
   },
   {
-   "rank": 99,
+   "rank": 98,
    "id": "in.playsimple.wordtrip.association",
    "name": "Word Connect Association",
    "publisher": "PlaySimple Games",
@@ -898,12 +889,21 @@
    "studio": null
   },
   {
-   "rank": 100,
+   "rank": 99,
    "id": "com.smilerlee.klondike",
    "name": "Solitaire",
    "publisher": "Mouse Games",
    "icon": "https://play-lh.googleusercontent.com/YJ8-U4mu1IGyXo6r_3_c2u1M_YuyInNzqqYZrZ5Lfga7POMgFYTFxVaScrzTfaPvs-aG248y5gRf1tuF2nnDXQ",
    "dev_url": "https://play.google.com/store/apps/details?id=com.smilerlee.klondike",
+   "studio": null
+  },
+  {
+   "rank": 100,
+   "id": "com.advant.streamer",
+   "name": "Lamar - Idle Vlogger",
+   "publisher": "CrazyLabs LTD",
+   "icon": "https://play-lh.googleusercontent.com/kq_IkzL1u2FhBFhXeozEQqhIS23pjnhYCpxlLJcLYQft2cGimQPgeOA78pyF57xp4fphWxrBy5gLixzcHAK2",
+   "dev_url": "https://play.google.com/store/apps/details?id=com.advant.streamer",
    "studio": null
   }
  ]

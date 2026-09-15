@@ -1,8 +1,8 @@
 {
  "store": "itunes",
- "updated_at": "2026-09-14T02:57:09.262Z",
+ "updated_at": "2026-09-15T02:59:16.111Z",
  "source": "App Store · Top Free Games (US)",
- "generated_at": "2026-09-14T02:57:09.262Z",
+ "generated_at": "2026-09-15T02:59:16.111Z",
  "total": 100,
  "miniclip_count": 4,
  "games": [
@@ -20,7 +20,7 @@
    "id": "6752672568",
    "name": "Block Out! - Color Sort Puzzle",
    "publisher": "Grand Games A.Ş.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/b7/cc/66b7ccf2-f181-a66d-a2a7-cff222a775f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/b0/2d/1fb02d35-d751-2a0e-dd59-0e9b3580924d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/grand-games-a-%C5%9F/id1742757639?uo=2",
    "studio": null
   },
@@ -35,24 +35,6 @@
   },
   {
    "rank": 4,
-   "id": "431946152",
-   "name": "Roblox",
-   "publisher": "Roblox Corporation",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/f0/55/65f055cb-e179-ba96-2a74-c9251e1c99e7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/roblox-corporation/id431946155?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 5,
-   "id": "6798905825",
-   "name": "MiniMuses",
-   "publisher": "Studio Sirenia",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/00/93/0c009394-ae9e-91c1-c4d7-86471def78a9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/studio-sirenia/id6798905827?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 6,
    "id": "6468921495",
    "name": "Vita Mahjong",
    "publisher": "Vita Studio",
@@ -61,21 +43,39 @@
    "studio": null
   },
   {
-   "rank": 7,
+   "rank": 5,
    "id": "6499209744",
    "name": "Magic Sort!",
    "publisher": "Grand Games A.Ş.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a3/9b/23a39b37-d579-80ad-f5c5-92d5d6da874f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/96/c1/2e96c1d7-a5ec-c46d-87da-3fc742161f73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/grand-games-a-%C5%9F/id1742757639?uo=2",
    "studio": null
   },
   {
-   "rank": 8,
+   "rank": 6,
    "id": "6759763476",
    "name": "Bus Traffic Fever!",
    "publisher": "GOODROID,Inc.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/08/c3/1b08c380-77f7-cb9e-a7ab-c815348d09d8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/goodroid-inc/id951688937?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 7,
+   "id": "431946152",
+   "name": "Roblox",
+   "publisher": "Roblox Corporation",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/f0/55/65f055cb-e179-ba96-2a74-c9251e1c99e7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/roblox-corporation/id431946155?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 8,
+   "id": "6779167923",
+   "name": "Colony Flow!",
+   "publisher": "ABI GLOBAL LTD.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f3/b2/f5f3b2df-fe85-cd62-53da-9ca8546b56d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/abi-global-ltd/id1743349083?uo=2",
    "studio": null
   },
   {
@@ -92,30 +92,12 @@
    "id": "6746743297",
    "name": "Bus Fever Party!",
    "publisher": "Lumi Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/20/4a/88204a17-8942-3a71-df34-96dfc698e48d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/1a/36/861a36b6-e101-1caf-7eca-e6b884525ca1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/lumi-games/id1770725599?uo=2",
    "studio": null
   },
   {
    "rank": 11,
-   "id": "1617391485",
-   "name": "Block Blast！",
-   "publisher": "Hungry Studio",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/a9/24/87a92453-5514-d21c-e6ef-5b6ee9d5dca1/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/hungry-studio/id1655290753?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 12,
-   "id": "6779167923",
-   "name": "Colony Flow!",
-   "publisher": "ABI GLOBAL LTD.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f3/b2/f5f3b2df-fe85-cd62-53da-9ca8546b56d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/abi-global-ltd/id1743349083?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 13,
    "id": "6758326278",
    "name": "Amaze GO!",
    "publisher": "Oakever Games",
@@ -124,25 +106,25 @@
    "studio": null
   },
   {
+   "rank": 12,
+   "id": "1617391485",
+   "name": "Block Blast！",
+   "publisher": "Hungry Studio",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/2e/54/1c2e54e4-d594-21f8-892b-7de4754a0949/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/hungry-studio/id1655290753?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 13,
+   "id": "6798905825",
+   "name": "MiniMuses",
+   "publisher": "Studio Sirenia",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/00/93/0c009394-ae9e-91c1-c4d7-86471def78a9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/studio-sirenia/id6798905827?uo=2",
+   "studio": null
+  },
+  {
    "rank": 14,
-   "id": "6754464806",
-   "name": "Car Evolve",
-   "publisher": "Heseri Games Inc",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fd/2a/f1fd2a75-d77c-2e0a-18d5-f56f2d0633f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/heseri-games-inc/id1720297696?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 15,
-   "id": "6780891673",
-   "name": "Royal Smash! - Physics Puzzle",
-   "publisher": "Cypher Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7b/ba/cf7bba17-4270-55ab-7d08-96ec164921cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/cypher-games/id1648701385?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 16,
    "id": "1623318294",
    "name": "Gossip Harbor®: Merge & Story",
    "publisher": "Microfun Limited",
@@ -151,16 +133,25 @@
    "studio": null
   },
   {
-   "rank": 17,
-   "id": "6759412341",
-   "name": "EA College Football Mobile 27",
-   "publisher": "Electronic Arts",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/2e/a5/632ea5a5-33e3-d96b-49da-9b733c81a90b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/electronic-arts/id284800461?uo=2",
+   "rank": 15,
+   "id": "6780891673",
+   "name": "Royal Smash! - Physics Puzzle",
+   "publisher": "Cypher Games",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/78/f9/cb78f904-51be-765d-7eb2-8b844a022cd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/cypher-games/id1648701385?uo=2",
    "studio": null
   },
   {
-   "rank": 18,
+   "rank": 16,
+   "id": "6754464806",
+   "name": "Car Evolve",
+   "publisher": "Heseri Games Inc",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fd/2a/f1fd2a75-d77c-2e0a-18d5-f56f2d0633f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/heseri-games-inc/id1720297696?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 17,
    "id": "638689075",
    "name": "Township",
    "publisher": "Playrix",
@@ -169,21 +160,30 @@
    "studio": null
   },
   {
+   "rank": 18,
+   "id": "6747492600",
+   "name": "Mahjong Blast",
+   "publisher": "Nebula Studio",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/0c/70/a20c7039-190b-ca71-2dcd-d65661149ed7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/nebula-studio/id1795182714?uo=2",
+   "studio": null
+  },
+  {
    "rank": 19,
+   "id": "6471045672",
+   "name": "Tasty Travels: Merge Game",
+   "publisher": "Century Games Pte. Ltd.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/45/bb/e045bb47-6e25-55e1-c687-8e64a7dea9d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 20,
    "id": "6771681639",
    "name": "Fish Sort Puzzle - Bubble Jam",
    "publisher": "Shycheese",
    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/86/39/5986391c-4a07-7794-f2a0-016fbca50e38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/shycheese/id1866477580?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 20,
-   "id": "6747492600",
-   "name": "Mahjong Blast",
-   "publisher": "Nebula Studio",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/02/90/ed0290e3-6cf7-08c9-b37f-359838d66738/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/nebula-studio/id1795182714?uo=2",
    "studio": null
   },
   {
@@ -197,20 +197,20 @@
   },
   {
    "rank": 22,
-   "id": "6483539426",
-   "name": "Fortnite",
-   "publisher": "Epic Games Inc.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/05/52/80055227-c260-f798-7966-d0b677ac6ed4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/epic-games-inc/id1738110841?uo=2",
+   "id": "6759412341",
+   "name": "EA College Football Mobile 27",
+   "publisher": "Electronic Arts",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/2e/a5/632ea5a5-33e3-d96b-49da-9b733c81a90b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/electronic-arts/id284800461?uo=2",
    "studio": null
   },
   {
    "rank": 23,
-   "id": "1482155847",
-   "name": "Royal Match",
-   "publisher": "Dream Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/9d/83/d99d834a-172e-0962-988c-5c95acc4ce97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/dream-games/id1482155846?uo=2",
+   "id": "6761757565",
+   "name": "Colorever: Gem Art Puzzle",
+   "publisher": "Oakever Games",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f1/e3/2bf1e381-80b3-121c-8fa4-bb535555b615/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/oakever-games/id1658671470?uo=2",
    "studio": null
   },
   {
@@ -224,60 +224,15 @@
   },
   {
    "rank": 25,
-   "id": "1443446174",
-   "name": "Magic Tiles 3™: Piano Game",
-   "publisher": "Amanotes Pte. Ltd.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/90/31/0f90312b-db0e-a139-4610-f0b283f7dd10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/amanotes-pte-ltd/id1441389613?uo=2",
+   "id": "1482155847",
+   "name": "Royal Match",
+   "publisher": "Dream Games",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/9d/83/d99d834a-172e-0962-988c-5c95acc4ce97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/dream-games/id1482155846?uo=2",
    "studio": null
   },
   {
    "rank": 26,
-   "id": "512939461",
-   "name": "Subway Surfers",
-   "publisher": "Sybo Games ApS",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/82/df/e682df4c-830a-b2d2-da21-b4048f7a4e91/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/sybo-games-aps/id471259040?uo=2",
-   "studio": "SYBO"
-  },
-  {
-   "rank": 27,
-   "id": "6471045672",
-   "name": "Tasty Travels: Merge Game",
-   "publisher": "Century Games Pte. Ltd.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/45/bb/e045bb47-6e25-55e1-c687-8e64a7dea9d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 28,
-   "id": "6744975195",
-   "name": "Sled Surfers",
-   "publisher": "Crazy Labs",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/92/93/c192939e-b4d9-084e-4f1b-1ff813fcb34c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/crazy-labs/id721307559?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 29,
-   "id": "1638139403",
-   "name": "Block Crush！",
-   "publisher": "Wonderful Studio",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/df/1e/6edf1e3a-a50e-9862-a0d5-a0e56859a7b2/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/wonderful-studio/id1820623343?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 30,
-   "id": "6443575749",
-   "name": "Whiteout Survival",
-   "publisher": "Century Games Pte. Ltd.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 31,
    "id": "6746328263",
    "name": "Castle Busters",
    "publisher": "Voodoo",
@@ -286,34 +241,25 @@
    "studio": null
   },
   {
-   "rank": 32,
-   "id": "6761757565",
-   "name": "Colorever: Gem Art Puzzle",
-   "publisher": "Oakever Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f1/e3/2bf1e381-80b3-121c-8fa4-bb535555b615/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/oakever-games/id1658671470?uo=2",
+   "rank": 27,
+   "id": "6744975195",
+   "name": "Sled Surfers",
+   "publisher": "Crazy Labs",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/92/93/c192939e-b4d9-084e-4f1b-1ff813fcb34c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/crazy-labs/id721307559?uo=2",
    "studio": null
   },
   {
-   "rank": 33,
-   "id": "6748950306",
-   "name": "Solitaire Associations Journey",
-   "publisher": "Hitapps Games LTD",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/24/92/42249295-9651-7b3b-7bbf-523fab7961d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/hitapps-games-ltd/id1648314473?uo=2",
+   "rank": 28,
+   "id": "1638139403",
+   "name": "Block Crush！",
+   "publisher": "Wonderful Studio",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/6f/2b/b36f2b4a-21eb-6371-7124-d4e2b707b2ee/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/wonderful-studio/id1820623343?uo=2",
    "studio": null
   },
   {
-   "rank": 34,
-   "id": "1287282214",
-   "name": "Call of Duty®: Mobile",
-   "publisher": "Activision Publishing, Inc.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/activision-publishing-inc/id285005466?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 35,
+   "rank": 29,
    "id": "6748397500",
    "name": "Arrows – Puzzle Escape",
    "publisher": "Lessmore GmbH",
@@ -322,7 +268,25 @@
    "studio": "Lessmore"
   },
   {
-   "rank": 36,
+   "rank": 30,
+   "id": "6748950306",
+   "name": "Solitaire Associations Journey",
+   "publisher": "Hitapps Games LTD",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/24/92/42249295-9651-7b3b-7bbf-523fab7961d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/hitapps-games-ltd/id1648314473?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 31,
+   "id": "6483539426",
+   "name": "Fortnite",
+   "publisher": "Epic Games Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/05/52/80055227-c260-f798-7966-d0b677ac6ed4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/epic-games-inc/id1738110841?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 32,
    "id": "6742809194",
    "name": "Warline: Sniper Strike",
    "publisher": "Powerfantasy",
@@ -331,34 +295,61 @@
    "studio": null
   },
   {
-   "rank": 37,
-   "id": "1423046460",
-   "name": "Paper.io 2",
-   "publisher": "Voodoo",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/20/34/352034d2-4b77-9681-73d4-3e57a4e126da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/voodoo/id714804730?uo=2",
+   "rank": 33,
+   "id": "512939461",
+   "name": "Subway Surfers",
+   "publisher": "Sybo Games ApS",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/f2/df/1df2dfc3-2ee3-86f9-a225-a5eb10ac41e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/sybo-games-aps/id471259040?uo=2",
+   "studio": "SYBO"
+  },
+  {
+   "rank": 34,
+   "id": "6443575749",
+   "name": "Whiteout Survival",
+   "publisher": "Century Games Pte. Ltd.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?uo=2",
    "studio": null
   },
   {
-   "rank": 38,
+   "rank": 35,
+   "id": "1443446174",
+   "name": "Magic Tiles 3™: Piano Game",
+   "publisher": "Amanotes Pte. Ltd.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/9a/12/4f9a120d-28cb-9fa3-ba4e-47326534bf32/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/amanotes-pte-ltd/id1441389613?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 36,
+   "id": "1608987929",
+   "name": "Triumph Arcade",
+   "publisher": "Triumph Arcade",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/b2/69/17b26981-b08b-7758-4e98-f8f94f49d09c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/triumph-arcade/id1659704024?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 37,
    "id": "6751056652",
    "name": "Pixel Flow!",
    "publisher": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/45/e0/1545e00a-4c45-1909-f2af-18f7a06bd790/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/95/2e/f6952e62-5e2d-3ffa-b5c8-d7b06ba7f6d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/loom-games-oyun-yazilim-ve-pazarlama-anonim-sirketi/id1833998834?uo=2",
    "studio": null
   },
   {
-   "rank": 39,
-   "id": "1351168404",
-   "name": "Among Us!",
-   "publisher": "InnerSloth LLC",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/5c/a67e5c64-65f4-bd11-edcc-087936599310/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/innersloth-llc/id957995279?uo=2",
+   "rank": 38,
+   "id": "6760377931",
+   "name": "Mahjong Rumble: Win Real Cash",
+   "publisher": "Aviagames Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c1/a9/1fc1a945-e38e-5ec9-a694-001ed01a1799/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/aviagames-inc/id1513192817?uo=2",
    "studio": null
   },
   {
-   "rank": 40,
+   "rank": 39,
    "id": "6767091927",
    "name": "Jigsaw Drop: Solitaire Puzzle",
    "publisher": "Runyou Game",
@@ -367,7 +358,25 @@
    "studio": null
   },
   {
+   "rank": 40,
+   "id": "1287282214",
+   "name": "Call of Duty®: Mobile",
+   "publisher": "Activision Publishing, Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/activision-publishing-inc/id285005466?uo=2",
+   "studio": null
+  },
+  {
    "rank": 41,
+   "id": "6756482832",
+   "name": "Brain Puzzle 3: Crazy Mind",
+   "publisher": "SmallStep Dev Team",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a1/bc/34a1bccb-15c4-6491-8057-136a0a3c2a93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/smallstep-dev-team/id1473677344?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 42,
    "id": "543186831",
    "name": "8 Ball Pool™",
    "publisher": "Miniclip.com",
@@ -376,30 +385,21 @@
    "studio": "Miniclip"
   },
   {
-   "rank": 42,
-   "id": "1562817072",
-   "name": "Mob Control",
+   "rank": 43,
+   "id": "1423046460",
+   "name": "Paper.io 2",
    "publisher": "Voodoo",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/31/03/1a31038d-394a-75fd-3229-05b8107418ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/20/34/352034d2-4b77-9681-73d4-3e57a4e126da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/voodoo/id714804730?uo=2",
    "studio": null
   },
   {
-   "rank": 43,
-   "id": "1608987929",
-   "name": "Triumph Arcade",
-   "publisher": "Triumph Arcade",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e2/84/00e2845b-2b46-e680-757a-7864b8cbbc2a/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/triumph-arcade/id1659704024?uo=2",
-   "studio": null
-  },
-  {
    "rank": 44,
-   "id": "6757350661",
-   "name": "Police Chief",
-   "publisher": "VoyagerOne",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/92/ef/1292ef6b-6fdf-8473-49b5-0bd8b13eafa9/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/voyagerone/id1839113942?uo=2",
+   "id": "553834731",
+   "name": "Candy Crush Saga",
+   "publisher": "King",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/de/33/8fde33a2-a5d3-ee30-cc04-36ec1ed1ef91/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/king/id526656015?uo=2",
    "studio": null
   },
   {
@@ -413,38 +413,38 @@
   },
   {
    "rank": 46,
-   "id": "553834731",
-   "name": "Candy Crush Saga",
-   "publisher": "King",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/de/33/8fde33a2-a5d3-ee30-cc04-36ec1ed1ef91/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/king/id526656015?uo=2",
+   "id": "1562817072",
+   "name": "Mob Control",
+   "publisher": "Voodoo",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/5c/8e/455c8eb3-c2e6-36bf-50c2-165fd99d2ed5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/voodoo/id714804730?uo=2",
    "studio": null
   },
   {
    "rank": 47,
-   "id": "6756482832",
-   "name": "Brain Puzzle 3: Crazy Mind",
-   "publisher": "SmallStep Dev Team",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a1/bc/34a1bccb-15c4-6491-8057-136a0a3c2a93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/smallstep-dev-team/id1473677344?uo=2",
+   "id": "6754009969",
+   "name": "Jackpot Nights",
+   "publisher": "Lucky Link Ltd.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/fa/02/50fa023b-ebbc-4c53-a163-6e501510adc6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/lucky-link-ltd/id1837363761?uo=2",
    "studio": null
   },
   {
    "rank": 48,
-   "id": "1094591345",
-   "name": "Pokémon GO",
-   "publisher": "Scopely Explore, Inc.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/4a/21/de4a21a0-dfd8-1198-ae05-d7b8a85e6abc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/scopely-explore-inc/id1037205060?uo=2",
+   "id": "6757140488",
+   "name": "Sand Blocks: Drop Puzzle",
+   "publisher": "Rollic Games",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/e9/34/cde934f4-a076-c1c7-ccbc-e9ac57f141ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/rollic-games/id1452111779?uo=2",
    "studio": null
   },
   {
    "rank": 49,
-   "id": "6760377931",
-   "name": "Mahjong Rumble: Win Real Cash",
-   "publisher": "Aviagames Inc.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c1/a9/1fc1a945-e38e-5ec9-a694-001ed01a1799/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/aviagames-inc/id1513192817?uo=2",
+   "id": "1351168404",
+   "name": "Among Us!",
+   "publisher": "InnerSloth LLC",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/5c/a67e5c64-65f4-bd11-edcc-087936599310/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/innersloth-llc/id957995279?uo=2",
    "studio": null
   },
   {
@@ -458,24 +458,6 @@
   },
   {
    "rank": 51,
-   "id": "6756989323",
-   "name": "Last Asylum: Plague",
-   "publisher": "WISENESS GAME ONLINE INTERNATIONAL LTD",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/be/88/a0be88d5-37e0-1d7d-75fd-2d1aaec70f0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/wiseness-game-online-international-ltd/id1091188713?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 52,
-   "id": "6757140488",
-   "name": "Sand Blocks: Drop Puzzle",
-   "publisher": "Rollic Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/e9/34/cde934f4-a076-c1c7-ccbc-e9ac57f141ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/rollic-games/id1452111779?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 53,
    "id": "6762268182",
    "name": "Z Route: Redemption",
    "publisher": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED",
@@ -484,25 +466,16 @@
    "studio": null
   },
   {
-   "rank": 54,
-   "id": "6755455500",
-   "name": "Hollywood Merge",
-   "publisher": "VoyagerOne",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/58/53/b7585305-5e86-d6e0-439b-6fd4ba7be8ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/voyagerone/id1839113942?uo=2",
+   "rank": 52,
+   "id": "6756989323",
+   "name": "Last Asylum: Plague",
+   "publisher": "WISENESS GAME ONLINE INTERNATIONAL LTD",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/be/88/a0be88d5-37e0-1d7d-75fd-2d1aaec70f0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/wiseness-game-online-international-ltd/id1091188713?uo=2",
    "studio": null
   },
   {
-   "rank": 55,
-   "id": "6754009969",
-   "name": "Jackpot Nights",
-   "publisher": "Lucky Link Ltd.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/fa/02/50fa023b-ebbc-4c53-a163-6e501510adc6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/lucky-link-ltd/id1837363761?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 56,
+   "rank": 53,
    "id": "6769314786",
    "name": "Food Hunt: Pixel Puzzle",
    "publisher": "FUNFINITY PTE. LTD",
@@ -511,7 +484,25 @@
    "studio": null
   },
   {
-   "rank": 57,
+   "rank": 54,
+   "id": "6757350661",
+   "name": "Police Chief",
+   "publisher": "VoyagerOne",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/92/ef/1292ef6b-6fdf-8473-49b5-0bd8b13eafa9/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/voyagerone/id1839113942?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 55,
+   "id": "1094591345",
+   "name": "Pokémon GO",
+   "publisher": "Scopely Explore, Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/4a/21/de4a21a0-dfd8-1198-ae05-d7b8a85e6abc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/scopely-explore-inc/id1037205060?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 56,
    "id": "6762010774",
    "name": "CrownCards - Trading Cards",
    "publisher": "CrownCards",
@@ -520,106 +511,7 @@
    "studio": null
   },
   {
-   "rank": 58,
-   "id": "6468762763",
-   "name": "ReBet: Social Sports & Casino",
-   "publisher": "Rebet, Inc.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/2b/e4/492be446-12b9-01ad-f471-16865417ef5e/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/rebet-inc/id1710500388?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 59,
-   "id": "1389111413",
-   "name": "Hole.io",
-   "publisher": "Voodoo",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/d6/87/56d6878f-b34f-d416-0a3f-92bed2367740/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/voodoo/id714804730?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 60,
-   "id": "329218549",
-   "name": "Chess.com - Play and Learn",
-   "publisher": "Chess.com",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/d7/79/64d7793c-87a8-3ad6-95bb-be55a5a278c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/chess-com/id329218552?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 61,
-   "id": "6449094229",
-   "name": "Match Factory!",
-   "publisher": "Peak Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/61/54/126154fe-3803-f59b-c958-2fbcde875421/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/peak-games/id476160947?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 62,
-   "id": "6759081967",
-   "name": "Jewel Coloring",
-   "publisher": "Ta Ta Game Technology Limited",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/98/a5/7b98a54a-6b1e-a098-4b22-96199c4c93ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/ta-ta-game-technology-limited/id1876554133?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 63,
-   "id": "6745120053",
-   "name": "Imposter Game - Party Edition",
-   "publisher": "Sven Vucak",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/69/e0/1069e0bd-1564-9f77-7ea4-a8072e6e90ff/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/sven-vucak/id1721257940?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 64,
-   "id": "6670441558",
-   "name": "Dark War:Survival",
-   "publisher": "Omnilojo Pte Ltd",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/1f/4b/541f4bf5-3dfd-b581-1823-d2835495b9cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/omnilojo-pte-ltd/id1838371095?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 65,
-   "id": "1053012308",
-   "name": "Clash Royale",
-   "publisher": "Supercell",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/59/cc/2559cc81-78bd-168e-c74a-d3649542f25a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/supercell/id488106216?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 66,
-   "id": "1446254576",
-   "name": "Solitaire Cash: Win Real Money",
-   "publisher": "Papaya Gaming",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/32/80/cc328002-9588-6cd9-1607-91141118625b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/papaya-gaming/id1168414219?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 67,
-   "id": "6745692355",
-   "name": "Connect Master - Match Puzzle",
-   "publisher": "ROOFTOP GAMES OYUN TEKNOLOJILERI ANONIM SIRKETI",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/a6/d1/d0a6d1be-4f73-eda6-aaac-4786e951280b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/rooftop-games-oyun-teknolojileri-anonim-sirketi/id1776905410?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 68,
-   "id": "1602508478",
-   "name": "Word Search Explorer®",
-   "publisher": "PlaySimple Games Pte Ltd",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/28/69/36286937-1e26-958c-48d7-0c9291b8a9ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/playsimple-games-pte-ltd/id1189416142?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 69,
+   "rank": 57,
    "id": "6746437378",
    "name": "Tang Luck: Casino Slots",
    "publisher": "SpinShift Limited",
@@ -628,34 +520,25 @@
    "studio": null
   },
   {
-   "rank": 70,
-   "id": "698255242",
-   "name": "Geometry Dash Lite",
-   "publisher": "RobTop Games AB",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/08/7f/2a087f71-90d8-b8a0-7f4d-97a0c35e2194/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/robtop-games-ab/id414027834?uo=2",
+   "rank": 58,
+   "id": "6449094229",
+   "name": "Match Factory!",
+   "publisher": "Peak Games",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/61/54/126154fe-3803-f59b-c958-2fbcde875421/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/peak-games/id476160947?uo=2",
    "studio": null
   },
   {
-   "rank": 71,
-   "id": "6755183085",
-   "name": "Yarn Loop: Knit Puzzle",
-   "publisher": "Combo Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/35/70/123570e5-a806-b520-690c-586a3738224d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/combo-games/id1641699177?uo=2",
+   "rank": 59,
+   "id": "329218549",
+   "name": "Chess.com - Play and Learn",
+   "publisher": "Chess.com",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/d7/79/64d7793c-87a8-3ad6-95bb-be55a5a278c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/chess-com/id329218552?uo=2",
    "studio": null
   },
   {
-   "rank": 72,
-   "id": "406889139",
-   "name": "Coin Master",
-   "publisher": "Moon Active",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/6e/9e/c66e9e1b-8e50-8ae3-36da-9ea0dea68855/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/moon-active/id470556954?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 73,
+   "rank": 60,
    "id": "1595314851",
    "name": "Lamar - Idle Vlogger",
    "publisher": "Crazy Labs",
@@ -664,7 +547,43 @@
    "studio": null
   },
   {
-   "rank": 74,
+   "rank": 61,
+   "id": "6759081967",
+   "name": "Jewel Coloring",
+   "publisher": "Ta Ta Game Technology Limited",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/14/76/381476be-9ee8-561b-0a8b-e2237d6ecf64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/ta-ta-game-technology-limited/id1876554133?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 62,
+   "id": "6755455500",
+   "name": "Hollywood Merge",
+   "publisher": "VoyagerOne",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/58/53/b7585305-5e86-d6e0-439b-6fd4ba7be8ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/voyagerone/id1839113942?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 63,
+   "id": "1446254576",
+   "name": "Solitaire Cash: Win Real Money",
+   "publisher": "Papaya Gaming",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/52/04/465204a1-4dbc-2e7a-6ca3-289b6ddccdff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/papaya-gaming/id1168414219?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 64,
+   "id": "6745692355",
+   "name": "Connect Master - Match Puzzle",
+   "publisher": "ROOFTOP GAMES OYUN TEKNOLOJILERI ANONIM SIRKETI",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ea/d0/3fead0a0-611d-3968-c05d-750e108f1ef4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/rooftop-games-oyun-teknolojileri-anonim-sirketi/id1776905410?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 65,
    "id": "6761614488",
    "name": "Apex Hunter: Animal Shooting",
    "publisher": "CozyCraft",
@@ -673,178 +592,34 @@
    "studio": null
   },
   {
-   "rank": 75,
-   "id": "1229016807",
-   "name": "Brawl Stars",
-   "publisher": "Supercell",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a7/00/eea700d3-6cec-f063-b86c-3dfd251c95bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/supercell/id488106216?uo=2",
+   "rank": 66,
+   "id": "1602508478",
+   "name": "Word Search Explorer®",
+   "publisher": "PlaySimple Games Pte Ltd",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/28/69/36286937-1e26-958c-48d7-0c9291b8a9ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/playsimple-games-pte-ltd/id1189416142?uo=2",
    "studio": null
   },
   {
-   "rank": 76,
-   "id": "6754900673",
-   "name": "Jigsawcard Solitaire Puzzle",
-   "publisher": "Oakever Games",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/02/20/b1022064-f333-5ba3-82ee-cccbdf072317/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/oakever-games/id1658671470?uo=2",
+   "rank": 67,
+   "id": "6787414784",
+   "name": "Water Sort Puzzle : Challenge",
+   "publisher": "贺翔 段",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/77/91/5f779194-85ef-b50e-293d-383f34be36a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/%E8%B4%BA%E7%BF%94-%E6%AE%B5/id1790107183?uo=2",
    "studio": null
   },
   {
-   "rank": 77,
-   "id": "6751101794",
-   "name": "Loop Sort",
-   "publisher": "Voodoo",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/5a/20/4a5a2017-fce2-7153-e264-81be2cdda43f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/voodoo/id714804730?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 78,
-   "id": "6747028173",
-   "name": "Hole Stars: Puzzle Game",
+   "rank": 68,
+   "id": "406889139",
+   "name": "Coin Master",
    "publisher": "Moon Active",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c5/cc/a0c5ccbc-2b12-943d-858e-c4b0f184388a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/ca/81/43ca8151-ef7e-9b29-cc38-03debf27aee5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/moon-active/id470556954?uo=2",
    "studio": null
   },
   {
-   "rank": 79,
-   "id": "6756288168",
-   "name": "Cookingo: Perfect Meal",
-   "publisher": "Higame Global Limited",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/f4/65/5ff465ab-c04b-fff5-79e3-5fc19a770fb3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/higame-global-limited/id1764022277?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 80,
-   "id": "6753862216",
-   "name": "Foodstars: Merge & Cook",
-   "publisher": "Happibits",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/fa/ef/25faefb4-7b6c-c9a1-380a-52513a36ad39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/happibits/id1597889315?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 81,
-   "id": "6761469046",
-   "name": "Rap Star:Idle Clicker",
-   "publisher": "聪 马",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/3c/74/533c741b-d78d-9221-28de-230b0aa89f1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/%E8%81%AA-%E9%A9%AC/id1783011085?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 82,
-   "id": "6757154335",
-   "name": "Cube Land Puzzle Game",
-   "publisher": "Rotatelab",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/47/f8/d847f8d8-9b32-27f1-54bd-2dca7100908f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/rotatelab/id1531290269?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 83,
-   "id": "981633844",
-   "name": "Block Craft 3D: Building Games",
-   "publisher": "Wildlife Studios",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/80/e6da80a1-ccf2-a7cc-e301-7049467d42bd/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/wildlife-studios/id1721431484?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 84,
-   "id": "1193508329",
-   "name": "Sudoku.com - Number Games",
-   "publisher": "Easybrain Ltd",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/d0/e2/0ad0e2f3-15d2-f5ec-d755-6a7876ecb5ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/easybrain-ltd/id1190815537?uo=2",
-   "studio": "Easybrain"
-  },
-  {
-   "rank": 85,
-   "id": "880047117",
-   "name": "Angry Birds 2",
-   "publisher": "Rovio Entertainment Oyj",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/12/75/2f1275bc-d155-45f9-c189-3cc518f3ff1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/rovio-entertainment-oyj/id298910979?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 86,
-   "id": "1330123889",
-   "name": "PUBG MOBILE",
-   "publisher": "Tencent Mobile International Limited",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/tencent-mobile-international-limited/id504515421?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 87,
-   "id": "6760998152",
-   "name": "Family Farm Merge",
-   "publisher": "Century Games Innovation Pte. Ltd.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/29/00/462900b2-4a89-1e1d-8b30-bfe1574c98d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/century-games-innovation-pte-ltd/id1876134518?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 88,
-   "id": "6760530627",
-   "name": "Mahjong Clash: Win Real Cash",
-   "publisher": "Aviagames Inc.",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/a5/78/ada578cb-f1eb-7502-0242-14d7ea299bdf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/aviagames-inc/id1513192817?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 89,
-   "id": "6743738094",
-   "name": "My Sticker Room - Decor Game",
-   "publisher": "SayGames LTD",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b7/b8/abb7b80a-92c1-91bd-f141-974e67a2dea8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/saygames-ltd/id1551847165?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 90,
-   "id": "6755495631",
-   "name": "Packz",
-   "publisher": "Packz",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/a4/b3/26a4b357-147f-83da-3783-dcdea957e5b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/packz/id1854204201?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 91,
-   "id": "6756058501",
-   "name": "Jelly Busters: Puzzle Game",
-   "publisher": "Moon Active",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/28/07/bd28076d-6872-742a-e852-9fb0ba6fba66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/moon-active/id470556954?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 92,
-   "id": "6450834358",
-   "name": "Sunday City: Life Simulator",
-   "publisher": "Kefir",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/d6/f4/dad6f4ce-6b4a-4574-a72e-6110af99370a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/kefir/id1646459921?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 93,
-   "id": "1094930513",
-   "name": "EA SPORTS FC Soccer Mobile 26",
-   "publisher": "Electronic Arts",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/53/62/115362dd-6195-b5d4-e42a-b73ef93e28f5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/electronic-arts/id284800461?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 94,
+   "rank": 69,
    "id": "6783815362",
    "name": "Word Tiles - Relaxing Puzzle",
    "publisher": "Agave Games",
@@ -853,34 +628,25 @@
    "studio": null
   },
   {
-   "rank": 95,
-   "id": "6448104157",
-   "name": "Offline Games - No Wifi Games",
-   "publisher": "Moreno Maio",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/bf/bd/2cbfbd36-668b-54e4-40a5-c3b6b79ad4fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/moreno-maio/id1190252979?uo=2",
+   "rank": 70,
+   "id": "6760530627",
+   "name": "Mahjong Clash: Win Real Cash",
+   "publisher": "Aviagames Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/a5/78/ada578cb-f1eb-7502-0242-14d7ea299bdf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/aviagames-inc/id1513192817?uo=2",
    "studio": null
   },
   {
-   "rank": 96,
-   "id": "1197961218",
-   "name": "Fillwords: Word Search Puzzles",
-   "publisher": "MALPA GAMES",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/25/ec/4b25ecbe-634a-e01c-9143-4a2649827487/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/malpa-games/id1659231453?uo=2",
+   "rank": 71,
+   "id": "6751101794",
+   "name": "Loop Sort",
+   "publisher": "Voodoo",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/74/7f/95747f04-6a7e-b661-b3b3-0fa3a03d1d02/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/voodoo/id714804730?uo=2",
    "studio": null
   },
   {
-   "rank": 97,
-   "id": "6482849843",
-   "name": "Goods Puzzle: Sort Challenge™",
-   "publisher": "FALCON GAMES",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/49/34/f249345d-b69c-77f5-5f97-c737bdc8facb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/falcon-games/id1439862247?uo=2",
-   "studio": null
-  },
-  {
-   "rank": 98,
+   "rank": 72,
    "id": "6788647921",
    "name": "Catedrop: Card Puzzle",
    "publisher": "GOODROID,Inc.",
@@ -889,21 +655,255 @@
    "studio": null
   },
   {
-   "rank": 99,
-   "id": "1465731199",
-   "name": "2 Player Games : Offline Games",
-   "publisher": "Moreno Maio",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/dd/c3/43ddc3d6-da0e-3fba-9241-ad63caba5e28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-   "dev_url": "https://apps.apple.com/us/developer/moreno-maio/id1190252979?uo=2",
+   "rank": 73,
+   "id": "6754900673",
+   "name": "Jigsawcard Solitaire Puzzle",
+   "publisher": "Oakever Games",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/f6/58/1bf65830-e39a-6edc-0ef0-eca3ed475bd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/oakever-games/id1658671470?uo=2",
    "studio": null
   },
   {
-   "rank": 100,
+   "rank": 74,
+   "id": "1389111413",
+   "name": "Hole.io",
+   "publisher": "Voodoo",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/d6/87/56d6878f-b34f-d416-0a3f-92bed2367740/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/voodoo/id714804730?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 75,
+   "id": "6755495631",
+   "name": "Packz",
+   "publisher": "Packz",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/a4/b3/26a4b357-147f-83da-3783-dcdea957e5b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/packz/id1854204201?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 76,
+   "id": "6747028173",
+   "name": "Hole Stars: Puzzle Game",
+   "publisher": "Moon Active",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c5/cc/a0c5ccbc-2b12-943d-858e-c4b0f184388a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/moon-active/id470556954?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 77,
+   "id": "6762178742",
+   "name": "Grand Fortune Club",
+   "publisher": "EverPrime Futures Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d8/41/bed841e5-f2cd-ee42-d776-f9612bda9a5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/everprime-futures-inc/id1883934479?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 78,
+   "id": "1053012308",
+   "name": "Clash Royale",
+   "publisher": "Supercell",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/45/d0/7745d02a-8eac-2295-b062-73bb93e90506/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/supercell/id488106216?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 79,
+   "id": "6755183085",
+   "name": "Yarn Loop: Knit Puzzle",
+   "publisher": "Combo Games",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/35/70/123570e5-a806-b520-690c-586a3738224d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/combo-games/id1641699177?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 80,
+   "id": "6757154335",
+   "name": "Cube Land Puzzle Game",
+   "publisher": "Rotatelab",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/47/f8/d847f8d8-9b32-27f1-54bd-2dca7100908f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/rotatelab/id1531290269?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 81,
+   "id": "6751794501",
+   "name": "Cash Avalanche:Casino Slot",
+   "publisher": "RELLGO, INC.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/6e/7a/ea6e7adc-631e-9b29-345c-a23c4a01bf40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/rellgo-inc/id1829399193?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 82,
+   "id": "6743738094",
+   "name": "My Sticker Room - Decor Game",
+   "publisher": "SayGames LTD",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b7/b8/abb7b80a-92c1-91bd-f141-974e67a2dea8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/saygames-ltd/id1551847165?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 83,
+   "id": "6761469046",
+   "name": "Rap Star:Idle Clicker",
+   "publisher": "聪 马",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/3c/74/533c741b-d78d-9221-28de-230b0aa89f1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/%E8%81%AA-%E9%A9%AC/id1783011085?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 84,
    "id": "1521236603",
    "name": "Travel Town - Merge Adventure",
    "publisher": "Moon Active",
    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/10/9e/e0109e46-df0c-c51b-d838-e9abb268fbff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
    "dev_url": "https://apps.apple.com/us/developer/moon-active/id470556954?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 85,
+   "id": "6446197181",
+   "name": "Glow Fashion Idol",
+   "publisher": "Crazy Labs",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/38/79/ef3879ce-74cf-d2b6-3c64-56ea07cfce38/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/crazy-labs/id721307559?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 86,
+   "id": "6760998152",
+   "name": "Family Farm Merge",
+   "publisher": "Century Games Innovation Pte. Ltd.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/29/00/462900b2-4a89-1e1d-8b30-bfe1574c98d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/century-games-innovation-pte-ltd/id1876134518?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 87,
+   "id": "1193508329",
+   "name": "Sudoku.com - Number Games",
+   "publisher": "Easybrain Ltd",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/d0/e2/0ad0e2f3-15d2-f5ec-d755-6a7876ecb5ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/easybrain-ltd/id1190815537?uo=2",
+   "studio": "Easybrain"
+  },
+  {
+   "rank": 88,
+   "id": "6753862216",
+   "name": "Foodstars: Merge & Cook",
+   "publisher": "Happibits",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/fa/ef/25faefb4-7b6c-c9a1-380a-52513a36ad39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/happibits/id1597889315?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 89,
+   "id": "6482849843",
+   "name": "Goods Puzzle: Sort Challenge™",
+   "publisher": "FALCON GAMES",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/49/34/f249345d-b69c-77f5-5f97-c737bdc8facb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/falcon-games/id1439862247?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 90,
+   "id": "6761896313",
+   "name": "Victory Blast Casino",
+   "publisher": "Luma Field Inc",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f1/c0/74f1c09a-3ed0-b772-9445-de2fbc3b9e2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/luma-field-inc/id1891977313?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 91,
+   "id": "6739069151",
+   "name": "Crossword Go!",
+   "publisher": "PlaySimple Games Pte Ltd",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/d6/59/62d659c9-3cfe-4f3c-2461-f81bc80e7a0b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/playsimple-games-pte-ltd/id1189416142?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 92,
+   "id": "6768564100",
+   "name": "Bruno Reels Casino",
+   "publisher": "EverPrime Futures Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ac/6d/3bac6db3-b321-63ee-165b-0a37f3089f33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/everprime-futures-inc/id1883934479?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 93,
+   "id": "6468762763",
+   "name": "ReBet: Social Sports & Casino",
+   "publisher": "Rebet, Inc.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/2b/e4/492be446-12b9-01ad-f471-16865417ef5e/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/rebet-inc/id1710500388?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 94,
+   "id": "6744304405",
+   "name": "Cider Casino - Real Money",
+   "publisher": "Mystic Mirror Studio Limited",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/8f/19/8d8f1924-b603-b754-055f-34d0cf107341/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/mystic-mirror-studio-limited/id1806986128?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 95,
+   "id": "6450834358",
+   "name": "Sunday City: Life Simulator",
+   "publisher": "Kefir",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/d6/f4/dad6f4ce-6b4a-4574-a72e-6110af99370a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/kefir/id1646459921?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 96,
+   "id": "880047117",
+   "name": "Angry Birds 2",
+   "publisher": "Rovio Entertainment Oyj",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/12/75/2f1275bc-d155-45f9-c189-3cc518f3ff1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/rovio-entertainment-oyj/id298910979?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 97,
+   "id": "1229016807",
+   "name": "Brawl Stars",
+   "publisher": "Supercell",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a7/00/eea700d3-6cec-f063-b86c-3dfd251c95bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/supercell/id488106216?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 98,
+   "id": "6745272388",
+   "name": "Block Buster - No Timer",
+   "publisher": "Lion Studios Plus",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/a2/27/36a227ab-10e2-5a35-10ed-ac8fbe0af16e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/lion-studios-plus/id1610194568?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 99,
+   "id": "6670441558",
+   "name": "Dark War:Survival",
+   "publisher": "Omnilojo Pte Ltd",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/ee/c9/1ceec939-7fe7-a2b4-4eb8-e0af54e0ebed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/omnilojo-pte-ltd/id1838371095?uo=2",
+   "studio": null
+  },
+  {
+   "rank": 100,
+   "id": "6767834940",
+   "name": "Top Lords",
+   "publisher": "GAME SPARK PTE. LTD.",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/54/c8/9454c850-fd97-7290-c482-044e1f8dd0ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+   "dev_url": "https://apps.apple.com/us/developer/game-spark-pte-ltd/id1896512523?uo=2",
    "studio": null
   }
  ]

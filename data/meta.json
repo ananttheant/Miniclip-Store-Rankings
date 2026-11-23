@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-22T04:40:40.650Z",
+ "generated_at": "2026-11-23T05:17:28.895Z",
  "stores": {
   "itunes": {
-   "updated_at": "2026-11-22T04:40:40.297Z",
+   "updated_at": "2026-11-23T05:17:28.588Z",
    "total": 100,
-   "miniclip_count": 4
+   "miniclip_count": 5
   },
   "google_play": {
-   "updated_at": "2026-11-22T04:40:40.649Z",
+   "updated_at": "2026-11-23T05:17:28.894Z",
    "total": 100,
-   "miniclip_count": 4
+   "miniclip_count": 3
   }
  }
 }
